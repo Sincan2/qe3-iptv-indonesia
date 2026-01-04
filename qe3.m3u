@@ -1,105 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="Dens TV",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png" group-title="Dens TV",INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-name="TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",TV One
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="TV Nasional (by: WINDO ZALMI)",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="TV Nasional (by: WINDO ZALMI)",Metro TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2880px-KOMPAS_TV_%282017%29.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",Kompas TV
-http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
-#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="TV Nasional (by: WINDO ZALMI)",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:-1 tvg-name="GARUDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/500px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/200px-MDTV_logo.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-#EXTINF:-1 tvg-name="TVRI Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/170px-TVRILogo2019.svg.png" group-title="TV Nasional (by: WINDO ZALMI)",TVRI Jakarta
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1200px-Logo_MQTV.png" group-title="TV Lokal Campur",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-name="dhodo TV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png" group-title="TV Lokal Campur",dhodo TV
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="news",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-name="RRI Net" tvg-logo="https://www.rri.co.id/assets/images/logo.png" group-title="news",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-name="BTV 2" tvg-logo="https://www.beritasatu.com/assets/images/logo_btv.png" group-title="news",BTV 2
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-name="Garuda TV 2" tvg-logo="https://etv-cdn.kdb.co.id/logo.png" group-title="entertainment",Garuda TV 2
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-name="Nusantara TV" tvg-logo="https://nusantaratv.siar.us/logo.png" group-title="entertainment",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Biznet Adventure" tvg-logo="https://livestream.biznetvideo.net/logo.png" group-title="entertainment",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Biznet Kids" tvg-logo="https://livestream.biznetvideo.net/logo.png" group-title="kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-name="Biznet Lifestyle" tvg-logo="https://livestream.biznetvideo.net/logo.png" group-title="lifestyle",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-name="Rodja TV" tvg-logo="https://rodjatv.com/logo.png" group-title="entertainment",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-name="Salira TV" tvg-logo="https://live.salira.tv/logo.png" group-title="entertainment",Salira TV
+https://live.salira.tv:3870/stream/play.m3u8
+#EXTINF:-1 tvg-name="Dhoho TV" tvg-logo="https://dhohotv.siar.us/logo.png" group-title="entertainment",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Banten TV" tvg-logo="https://bantentv.com/wp-content/uploads/2020/05/BANTEN-TV-300x36.png" group-title="TV Lokal Campur",Banten TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sakti TV" tvg-logo="https://www.sakti.tv/wp-content/uploads/2019/07/logo-saktitv-768x214.png" group-title="TV Lokal Campur",Sakti TV
+#EXTINF:-1 tvg-name="Duta TV" tvg-logo="https://dutatv.siar.us/logo.png" group-title="regional",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Surabaya TV" tvg-logo="https://e.siar.us/logo/surabayatv.png" group-title="regional",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-name="Semarang TV" tvg-logo="https://116.254.112.74/logo.png" group-title="regional",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-name="Sakti TV" tvg-logo="https://saktitv.siar.us/logo.png" group-title="entertainment",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="siar TV" tvg-logo="https://www.syiarmedia.com/images/gallery/1.jpg" group-title="TV Lokal Campur",siar TV
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Bandung TV" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="TV Lokal Campur",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-name="Lingkar TV" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV Lokal Campur",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-name="Inspira TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/1920px-Inspira.png" group-title="TV Lokal Campur",Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Jogja Istimewa TV" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="TV Lokal Campur",Jogja Istimewa TV
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Elshinta TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ElshintaTV2019.png/200px-ElshintaTV2019.png" group-title="TV Lokal Campur",Elshinta TV
+#EXTINF:-1 tvg-name="Elshinta TV" tvg-logo="https://ams.juraganstreaming.com/logo.png" group-title="entertainment",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1 tvg-name="Madu TV" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV Lokal Campur",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-name="MUITV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/religion/muitv.jpg?raw=true" group-title="TV Lokal Campur",MUITV
-https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse and Country" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="TV Premium Campur",Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="TV Premium Campur",Net TV
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-name="Horizon Sports" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/HorizonSports.png" group-title="Indonesia",Horizon Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
-#EXTINF:-1 tvg-name="MAXSTREAM[INDIHOME]" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="INDIHOME TV",MAXSTREAM[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-#EXTINF:-1 tvg-name="TV9[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13" group-title="INDIHOME TV",TV9[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
-#EXTINF:-1 tvg-name="EURONEWS[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png" group-title="INDIHOME TV",EURONEWS[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
-#EXTINF:-1 tvg-name="BIOSKOP INDONESIA[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="INDIHOME TV",BIOSKOP INDONESIA[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-#EXTINF:-1 tvg-name="CELESTIAL MOVIE[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="INDIHOME TV",CELESTIAL MOVIE[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
-#EXTINF:-1 tvg-name="ZHEJIANG TV[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="INDIHOME TV",ZHEJIANG TV[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-#EXTINF:-1 tvg-name="CARTOON NETWORK[INDIHOME]" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="INDIHOME TV",CARTOON NETWORK[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-#EXTINF:-1 tvg-name="DensPlay" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="Dens TV",DensPlay
-http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensPlay
-#EXTINF:-1 tvg-name="DensLife and Style" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="Dens TV",DensLife and Style
-http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg" group-title="Dens TV",Dance TV
-http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV
-#EXTINF:-1 tvg-name="DensFood Channel" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" group-title="Dens TV",DensFood Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
-#EXTINF:-1 tvg-name="DensShowBiz" tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" group-title="Dens TV",DensShowBiz
-http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
-#EXTINF:-1 tvg-name="DensKnowledge" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Dens TV",DensKnowledge
-http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
-#EXTINF:-1 tvg-name="Motorvision+" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg" group-title="Dens TV",Motorvision+
-http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://www.dens.tv/images/channel-logo/82.jpg" group-title="Dens TV",Quran TV
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
-#EXTINF:-1 tvg-name="Sunna TV" tvg-logo="https://www.dens.tv/images/channel-logo/88.jpg" group-title="Dens TV",Sunna TV
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
-#EXTINF:-1 tvg-name="Dunia Sinema HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="CHANNEL | MALAYSIA",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-name="TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="CHANNEL | MALAYSIA",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-name="TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" group-title="CHANNEL | MALAYSIA",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-name="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="CHANNEL | MALAYSIA",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 tvg-name="TV 6" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="CHANNEL | MALAYSIA",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="CHANNEL | MALAYSIA",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-name="Berita RTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="CHANNEL | MALAYSIA",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png" group-title="Indonesia",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
-#EXTINF:-1 tvg-name="Sportstars 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Vision+",Sportstars 1
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 tvg-name="Soccer Channel V+" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Vision+",Soccer Channel V+
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-name="TV9 Nusantara" tvg-logo="https://5bf7b725107e5.streamlock.net/logo.png" group-title="entertainment",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-name="Alwafa Tarim TV" tvg-logo="https://ammedia.siar.us/logo.png" group-title="general",Alwafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Ashiil TV" tvg-logo="https://ams.juraganstreaming.com/logo.png" group-title="general",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1 tvg-name="Bandung TV" tvg-logo="https://e.siar.us/logo.png" group-title="regional",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-name="Inspira TV" tvg-logo="https://inspiratv.siar.us/logo.png" group-title="entertainment",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="TVRI Sport" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-name="Rajawali TV" tvg-logo="https://rtv.co.id/assets/images/logo.png" group-title="regional",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-name="TVRI Aceh" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-name="TVRI Bali" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-name="TVRI Jawa Barat" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-name="TVRI Jawa Tengah" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-name="TVRI Jawa Timur" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-name="TVRI DKI Jakarta" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI DKI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-name="TVRI Lampung" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-name="TVRI Riau" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-name="TVRI Sumatera Barat" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-name="TVRI Sumatera Selatan" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-name="TVRI Sulawesi Tengah" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-name="TVRI Sulawesi Tenggara" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-name="TVRI Sulawesi Utara" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Barat" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Nusa Tenggara Barat
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Timur" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Nusa Tenggara Timur
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-name="TVRI Papua" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-name="TVRI Kalimantan Barat" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-name="TVRI Kalimantan Selatan" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-name="TVRI Kalimantan Tengah" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-name="TVRI Kalimantan Timur" tvg-logo="https://www.tvri.go.id/assets/img/logo-tvri.png" group-title="regional",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
