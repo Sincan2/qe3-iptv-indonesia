@@ -1,72 +1,60 @@
 # 📺 QE3 IPTV Indonesia
 
-**QE3 IPTV Indonesia** adalah playlist IPTV **khusus penggunaan pribadi & edukasi**  
-yang diverifikasi secara ketat menggunakan **Jellyfin ffmpeg engine**.
+## ⚠️ DISCLAIMER
+Repository ini **HANYA untuk tujuan EDUKASI & penggunaan PRIBADI**.
+
+- ❌ **DILARANG KERAS memperjualbelikan playlist ini**
+- ❌ **DILARANG digunakan untuk layanan komersial**
+- ❌ **TIDAK ADA JAMINAN KESTABILAN STREAM**
+
+Pemilik repository **TIDAK menyimpan, meng-host, atau mengontrol konten siaran**.
+Semua sumber berasal dari **URL publik di internet**.
 
 ---
 
-## ⚠️ PERINGATAN PENTING
+## 🧠 Tentang QE3
+**QE3 (Quality Enforcement Engine)** adalah sistem kurasi IPTV yang:
 
-🚫 **DILARANG KERAS DIPERJUALBELIKAN**  
-🚫 **BUKAN UNTUK KOMERSIAL**  
-🚫 **BUKAN UNTUK RESELLER / PROVIDER IPTV**
-
-Playlist ini **HANYA** untuk:
-- Edukasi teknis
-- Eksperimen Jellyfin
-- Penggunaan pribadi di jaringan sendiri
-
----
-
-## ✅ FITUR UTAMA
-
-✔ Jellyfin-strict verification (real ffmpeg decode)  
-✔ No duplicate channel  
-✔ Smart logo mode (tidak memaksa logo)  
-✔ Auto cleanup stream mati  
-✔ GitHub production sync  
-✔ Compatible Jellyfin 10.11.x  
+- ✅ Menguji stream **langsung via ffmpeg Jellyfin**
+- ✅ Menolak stream yang:
+  - Decode error
+  - 0 ms playback
+  - Segment rusak
+  - PPS / reference overflow
+- ✅ Menghapus duplicate
+- ✅ Hanya menyimpan **REAL JELLYFIN-PLAYABLE**
 
 ---
 
-## 🧪 METODOLOGI TEST
+## 🛠️ Metode Validasi
+QE3 menggunakan:
 
-Setiap channel diuji dengan:
+- `docker exec jellyfin ffmpeg`
+- Decode test (video stream)
+- Segment read test
+- Timeout & error pattern detection
 
-- ffmpeg **di dalam container Jellyfin**
-- segment decode real-time
-- user-agent Jellyfin
-- probe & analyze limit
-
-Channel yang **gagal decode → DIBUANG**
-
----
-
-## 📂 FILE
-
-- `qe3.m3u` → Playlist IPTV
-- `qe3_epg.xml` → EPG placeholder
+Stream yang **tidak benar-benar bisa ditonton di Jellyfin akan DIBUANG**.
 
 ---
 
-## 👤 AUTHOR
+## 📥 Cara Pakai
+Gunakan URL RAW berikut di Jellyfin / VLC / IPTV client:
 
-**BY Sincan2 – 2026**  
-Personal project – Indonesia 🇮🇩
-
-Jika kamu developer:
-> gunakan dengan **etika & tanggung jawab**
-
----
-
-## 🔒 DISCLAIMER
-
-Pemilik repo **tidak menyediakan konten**  
-Semua URL berasal dari **sumber publik terbuka**  
-Hak cipta tetap milik masing-masing pemegang hak
+```
+https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/main/qe3.m3u
+```
 
 ---
 
-⭐ Jangan fork untuk jualan  
-⭐ Jangan rebrand untuk komersial  
-⭐ Gunakan dengan bijak
+## 🔁 Update Otomatis
+- Playlist diperbarui secara manual oleh QE3 engine
+- Stream mati / rusak akan dihapus
+- Stream valid akan dipertahankan
+
+---
+
+## 👤 Author
+**BY Sincan2 – 2026**
+
+> Gunakan dengan bijak. Hormati penyedia konten.
