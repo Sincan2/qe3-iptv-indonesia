@@ -1,199 +1,51 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="576060" group-title="Sea Games Thailand 2025" tvg-logo="", SEA Games CH02
-https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",Indosiar 
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",RCTI HD
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",MNC TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",TransTV HD (TRANSCORP)
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",Trans7 HD (TRANSCORP)
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",SCTV (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-#EXTINF:-1 tvg-id="MDTV" group-title="Indonesia Channels" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",MDTV
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MDTV.m3u8
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",Nusantara TV (DensTV)
-https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",Nusantara TV (ChannelFeed)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Indosiar 2
+https://vcdn2.rctiplus.id/live/eds/indosiar_fta/live_fta/indosiar_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="" tvg-country="ID" group-title="news",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="" tvg-country="ID" group-title="news",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="" tvg-country="ID" group-title="news",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",ANTV HD (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",CNN Indonesia (ChannelFeed)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="TVRI World" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",TVRI World
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="BTV" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",BTV (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BTV.m3u8
-#EXTINF:-1 tvg-id="Berita Satu" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Berita Satu (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
-#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-logo="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  group-title="Indonesia Channels",CNBC Indonesia (ChannelFeed)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="Magna Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",MAGNA TV (ChannelFeed)
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w942100365_b1128000_sleng.m3u8
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="",BN Channel (ChannelFeed)
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:-1 tvg-id="Garuda TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Indonesia Channels",Garuda TV (ChannelFeed)
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Premium Movies",Paramount Network
-https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Movies" tvg-logo="",Bollywood HD 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Entertainment & LifeStyle",Dens Life & Style (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DensShowbiz.m3u8
-#EXTINF:-1 tvg-id="Dens ShowBiz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Entertainment & LifeStyle",Dens ShowBiz (DENSTV)
-https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:-1 tvg-id="Channel Jowo" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Indonesian Entertainment & Movies", Channel Jowo (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/JowoChannel.m3u8
-#EXTINF:-1 tvg-id="My Kidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Kids",MyKids (DensTV)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MyKidz.m3u8
-#EXTINF:-1 tvg-id="Motorvision" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Sports", MOTORVISION+
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MotorVision.m3u8
-#EXTINF:-1 tvg-id="TVRI Sport" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="" group-title="Sports",TVRI Sport
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="CNA" tvg-name="CNA" tvg-logo="", CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mediacorp Singapore",Mediacorp Entertainment English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mediacorp Singapore",Mediacorp Entertainment China
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia" tvg-logo="",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="" group-title="Malaysia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",LEAD
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",JR.
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-id="" group-title="Malaysia" tvg-logo="",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="" group-title="Malaysia",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
-#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",RTB Go Live FHD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",RTB Sukmaindera FHD
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
-#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",RTB Aneka FHD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Jawapos TV Jakarta
-http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Jawapos TV Madiun
-http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Jawapos TV Semarang
-http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Kawanua TV
-http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Jawapos TV Magelang
-http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="",Jawapos TV Bali
-http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" "" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 group-title="Local Channels" "" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",DavikaTV Lampung
-https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w997967539.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",CarubanTV
-https://stream.carubantv.id/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",Kilisuci TV Kediri
-https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
-#EXTINF:-1 group-title="Local Channels" "" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",Dhoho TV- Kediri
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Garuda TV 2
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="" tvg-country="ID" group-title="kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-logo="" tvg-country="ID" group-title="lifestyle",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Salira TV
+https://live.salira.tv:3870/stream/play.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="DhohoTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",Timor TV
-http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",Bungo TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1429108522.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",Salira TV
-https://live.salira.tv/p/3870/hybrid/play.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",Surabaya TV
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="" tvg-country="ID" group-title="regional",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="" tvg-country="ID" group-title="regional",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SurabayaTV.id" tvg-logo="" tvg-country="ID" group-title="regional",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",PON TV
-http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",Sultra TV
-http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",Sampit TV
-https://sampit-tv.siar.us/live/sampit-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Local Channels",SMTV Sumedang
-http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",StaraTV Sumedang
-https://stream.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",StaraTV Malang
-https://malang.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",LingkarTV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",BantenTV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",BanjarTV
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",BRTV
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",StaraTV Bandung
-https://bandung.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",DMTV Malang
-https://e.siar.us/live/dmtv.m3u8
-#EXTINF:-1  tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="" group-title="Internet Radio",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",JEK TV
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="",StaraTV Cianjur
-https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",i-Radio Jakarta
-https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",i-Radio Bandung
-https://stream.radiojar.com/u6ppe6hswk8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",i-Radio Makasar
-https://stream.radiojar.com/seqmzfeu5k8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",i-iRadio Medan
-https://stream.radiojar.com/hkuevehswk8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",i-Radio Banjarmasin
-https://stream.radiojar.com/qfqd2aw80k8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",Ardan Radio Bandung
-https://n15.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABmDGUs7cAw6dhoajf1Wk4kg
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",Trax FM Jakarta
-https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",Hard Rock FM Surabaya
-http://stream.radiojar.com/yg8ne2v80k8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-#EXTINF:-1 tvg-logo="" group-title="Internet Radio",Hard Rock FM Bali
-http://stream.radiojar.com/9k28wsbu5k8uv
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 1
-http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 2
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 5+
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 6
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 3
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 8K
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 8
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 10
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 7
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 9
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 11
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 17
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 13
-http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 12
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="",CCTV 14
-http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="" tvg-country="ID" group-title="entertainment",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="" tvg-country="ID" group-title="general",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="" tvg-country="ID" group-title="regional",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="" tvg-country="ID" group-title="entertainment",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="" tvg-country="ID" group-title="general",Al-Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="" tvg-country="ID" group-title="general",Alwafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="" tvg-country="ID" group-title="regional",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
