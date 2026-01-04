@@ -1,159 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="sctv">
-    <display-name>SCTV</display-name>
+  <channel id="tvri_nasional">
+    <display-name>TVRI Nasional</display-name>
   </channel>
-  <channel id="indosiar">
-    <display-name>INDOSIAR</display-name>
+  <channel id="rri_net">
+    <display-name>RRI Net</display-name>
   </channel>
-  <channel id="trans7">
-    <display-name>Trans7</display-name>
+  <channel id="btv_2">
+    <display-name>BTV 2</display-name>
   </channel>
-  <channel id="tv_one">
-    <display-name>TV One</display-name>
+  <channel id="garuda_tv_2">
+    <display-name>Garuda TV 2</display-name>
   </channel>
-  <channel id="cnn_indonesia">
-    <display-name>CNN Indonesia</display-name>
+  <channel id="nusantara_tv">
+    <display-name>Nusantara TV</display-name>
   </channel>
-  <channel id="metro_tv">
-    <display-name>Metro TV</display-name>
+  <channel id="biznet_adventure">
+    <display-name>Biznet Adventure</display-name>
   </channel>
-  <channel id="kompas_tv">
-    <display-name>Kompas TV</display-name>
+  <channel id="biznet_kids">
+    <display-name>Biznet Kids</display-name>
   </channel>
-  <channel id="cnbc_indonesia">
-    <display-name>CNBC Indonesia</display-name>
+  <channel id="biznet_lifestyle">
+    <display-name>Biznet Lifestyle</display-name>
   </channel>
-  <channel id="garuda_tv">
-    <display-name>GARUDA TV</display-name>
+  <channel id="rodja_tv">
+    <display-name>Rodja TV</display-name>
   </channel>
-  <channel id="mdtv">
-    <display-name>MDTV</display-name>
+  <channel id="salira_tv">
+    <display-name>Salira TV</display-name>
   </channel>
-  <channel id="tvri_jakarta">
-    <display-name>TVRI Jakarta</display-name>
+  <channel id="dhoho_tv">
+    <display-name>Dhoho TV</display-name>
   </channel>
-  <channel id="mqtv">
-    <display-name>MQTV</display-name>
+  <channel id="duta_tv">
+    <display-name>Duta TV</display-name>
   </channel>
-  <channel id="dhodo_tv">
-    <display-name>dhodo TV</display-name>
+  <channel id="surabaya_tv">
+    <display-name>Surabaya TV</display-name>
   </channel>
-  <channel id="banten_tv">
-    <display-name>Banten TV</display-name>
+  <channel id="semarang_tv">
+    <display-name>Semarang TV</display-name>
   </channel>
   <channel id="sakti_tv">
     <display-name>Sakti TV</display-name>
   </channel>
-  <channel id="siar_tv">
-    <display-name>siar TV</display-name>
+  <channel id="elshinta_tv">
+    <display-name>Elshinta TV</display-name>
+  </channel>
+  <channel id="tv9_nusantara">
+    <display-name>TV9 Nusantara</display-name>
+  </channel>
+  <channel id="alwafa_tarim_tv">
+    <display-name>Alwafa Tarim TV</display-name>
+  </channel>
+  <channel id="ashiil_tv">
+    <display-name>Ashiil TV</display-name>
   </channel>
   <channel id="bandung_tv">
     <display-name>Bandung TV</display-name>
   </channel>
-  <channel id="lingkar_tv">
-    <display-name>Lingkar TV</display-name>
-  </channel>
   <channel id="inspira_tv">
     <display-name>Inspira TV</display-name>
   </channel>
-  <channel id="jogja_istimewa_tv">
-    <display-name>Jogja Istimewa TV</display-name>
+  <channel id="tvri_sport">
+    <display-name>TVRI Sport</display-name>
   </channel>
-  <channel id="elshinta_tv">
-    <display-name>Elshinta TV</display-name>
+  <channel id="rajawali_tv">
+    <display-name>Rajawali TV</display-name>
   </channel>
-  <channel id="madu_tv">
-    <display-name>Madu TV</display-name>
+  <channel id="tvri_aceh">
+    <display-name>TVRI Aceh</display-name>
   </channel>
-  <channel id="muitv">
-    <display-name>MUITV</display-name>
+  <channel id="tvri_bali">
+    <display-name>TVRI Bali</display-name>
   </channel>
-  <channel id="horse_and_country">
-    <display-name>Horse and Country</display-name>
+  <channel id="tvri_jawa_barat">
+    <display-name>TVRI Jawa Barat</display-name>
   </channel>
-  <channel id="net_tv">
-    <display-name>Net TV</display-name>
+  <channel id="tvri_jawa_tengah">
+    <display-name>TVRI Jawa Tengah</display-name>
   </channel>
-  <channel id="horizon_sports">
-    <display-name>Horizon Sports</display-name>
+  <channel id="tvri_jawa_timur">
+    <display-name>TVRI Jawa Timur</display-name>
   </channel>
-  <channel id="maxstream[indihome]">
-    <display-name>MAXSTREAM[INDIHOME]</display-name>
+  <channel id="tvri_dki_jakarta">
+    <display-name>TVRI DKI Jakarta</display-name>
   </channel>
-  <channel id="tv9[indihome]">
-    <display-name>TV9[INDIHOME]</display-name>
+  <channel id="tvri_lampung">
+    <display-name>TVRI Lampung</display-name>
   </channel>
-  <channel id="euronews[indihome]">
-    <display-name>EURONEWS[INDIHOME]</display-name>
+  <channel id="tvri_riau">
+    <display-name>TVRI Riau</display-name>
   </channel>
-  <channel id="bioskop_indonesia[indihome]">
-    <display-name>BIOSKOP INDONESIA[INDIHOME]</display-name>
+  <channel id="tvri_sumatera_barat">
+    <display-name>TVRI Sumatera Barat</display-name>
   </channel>
-  <channel id="celestial_movie[indihome]">
-    <display-name>CELESTIAL MOVIE[INDIHOME]</display-name>
+  <channel id="tvri_sumatera_selatan">
+    <display-name>TVRI Sumatera Selatan</display-name>
   </channel>
-  <channel id="zhejiang_tv[indihome]">
-    <display-name>ZHEJIANG TV[INDIHOME]</display-name>
+  <channel id="tvri_sulawesi_selatan">
+    <display-name>TVRI Sulawesi Selatan</display-name>
   </channel>
-  <channel id="cartoon_network[indihome]">
-    <display-name>CARTOON NETWORK[INDIHOME]</display-name>
+  <channel id="tvri_sulawesi_tengah">
+    <display-name>TVRI Sulawesi Tengah</display-name>
   </channel>
-  <channel id="densplay">
-    <display-name>DensPlay</display-name>
+  <channel id="tvri_sulawesi_tenggara">
+    <display-name>TVRI Sulawesi Tenggara</display-name>
   </channel>
-  <channel id="denslife_and_style">
-    <display-name>DensLife and Style</display-name>
+  <channel id="tvri_sulawesi_utara">
+    <display-name>TVRI Sulawesi Utara</display-name>
   </channel>
-  <channel id="dance_tv">
-    <display-name>Dance TV</display-name>
+  <channel id="tvri_nusa_tenggara_barat">
+    <display-name>TVRI Nusa Tenggara Barat</display-name>
   </channel>
-  <channel id="densfood_channel">
-    <display-name>DensFood Channel</display-name>
+  <channel id="tvri_nusa_tenggara_timur">
+    <display-name>TVRI Nusa Tenggara Timur</display-name>
   </channel>
-  <channel id="densshowbiz">
-    <display-name>DensShowBiz</display-name>
+  <channel id="tvri_papua">
+    <display-name>TVRI Papua</display-name>
   </channel>
-  <channel id="densknowledge">
-    <display-name>DensKnowledge</display-name>
+  <channel id="tvri_kalimantan_barat">
+    <display-name>TVRI Kalimantan Barat</display-name>
   </channel>
-  <channel id="motorvision+">
-    <display-name>Motorvision+</display-name>
+  <channel id="tvri_kalimantan_selatan">
+    <display-name>TVRI Kalimantan Selatan</display-name>
   </channel>
-  <channel id="quran_tv">
-    <display-name>Quran TV</display-name>
+  <channel id="tvri_kalimantan_tengah">
+    <display-name>TVRI Kalimantan Tengah</display-name>
   </channel>
-  <channel id="sunna_tv">
-    <display-name>Sunna TV</display-name>
-  </channel>
-  <channel id="dunia_sinema_hd">
-    <display-name>Dunia Sinema HD</display-name>
-  </channel>
-  <channel id="tv_1">
-    <display-name>TV 1</display-name>
-  </channel>
-  <channel id="tv_2">
-    <display-name>TV 2</display-name>
-  </channel>
-  <channel id="tv_okey">
-    <display-name>TV Okey</display-name>
-  </channel>
-  <channel id="tv_6">
-    <display-name>TV 6</display-name>
-  </channel>
-  <channel id="astro_awani">
-    <display-name>Astro Awani</display-name>
-  </channel>
-  <channel id="berita_rtm">
-    <display-name>Berita RTM</display-name>
-  </channel>
-  <channel id="sukan_rtm">
-    <display-name>Sukan RTM</display-name>
-  </channel>
-  <channel id="sportstars_1">
-    <display-name>Sportstars 1</display-name>
-  </channel>
-  <channel id="soccer_channel_v+">
-    <display-name>Soccer Channel V+</display-name>
+  <channel id="tvri_kalimantan_timur">
+    <display-name>TVRI Kalimantan Timur</display-name>
   </channel>
 </tv>
