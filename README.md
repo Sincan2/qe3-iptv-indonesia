@@ -1,43 +1,21 @@
 # 📺 QE3 IPTV Indonesia
 
-**BY Sincan2 2026 new IPTV**
+**Jellyfin-Strict IPTV Playlist (Indonesia)**
 
-Playlist IPTV Indonesia yang diproses menggunakan **QE3 Jellyfin-Strict Engine**.
+## Features
+- ✅ Validated with Jellyfin ffmpeg (Docker)
+- 🔁 Auto deduplicate channels
+- 🧹 Weekly cleanup dead streams
+- 🖼 Logo supported
+- 📡 EPG XML included
 
----
+## Files
+- `qe3.m3u`
+- `qe3_epg.xml`
 
-## ✅ Fitur
-- Jellyfin compatible (REAL ffmpeg test)
-- Auto remove dead channels
-- Auto deduplicate
-- Auto logo resolve
-- Production-ready via GitHub RAW
-
----
-
-## ▶️ Playlist (M3U)
-```
+## RAW Playlist
 https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/main/qe3.m3u
-```
-
-## 🗓️ EPG XML
-```
-https://raw.githubusercontent.com/Sincan2/qe3-iptv-indonesia/main/qe3_epg.xml
-```
 
 ---
-
-## 🔄 Update Policy
-- Channel mati akan dihapus otomatis
-- Playlist diperbarui berkala
-- README selalu diperbarui
-
----
-
-## ⚠️ Disclaimer
-Playlist ini dibuat untuk **edukasi & penggunaan pribadi**.
-Hak siar tetap milik masing-masing pemegang lisensi.
-
----
-
-**BY Sincan2 2026 new IPTV**
+**BY Sincan2 – 2026 IPTV**
+_Last update: 04 January 2026_
