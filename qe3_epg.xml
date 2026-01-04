@@ -1,1 +1,285 @@
-<?xml version="1.0" encoding="UTF-8"?><tv></tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="sea_games_ch02">
+    <display-name>SEA Games CH02</display-name>
+  </channel>
+  <channel id="mnc_tv">
+    <display-name>MNC TV</display-name>
+  </channel>
+  <channel id="gtv_(v+)">
+    <display-name>GTV (V+)</display-name>
+  </channel>
+  <channel id="indosiar">
+    <display-name>Indosiar</display-name>
+  </channel>
+  <channel id="sctv">
+    <display-name>SCTV</display-name>
+  </channel>
+  <channel id="transtv_hd_(transcorp)">
+    <display-name>TransTV HD (TRANSCORP)</display-name>
+  </channel>
+  <channel id="trans7_hd_(transcorp)">
+    <display-name>Trans7 HD (TRANSCORP)</display-name>
+  </channel>
+  <channel id="mdtv">
+    <display-name>MDTV</display-name>
+  </channel>
+  <channel id="nusantara_tv_(denstv)">
+    <display-name>Nusantara TV (DensTV)</display-name>
+  </channel>
+  <channel id="nusantara_tv_(channelfeed)">
+    <display-name>Nusantara TV (ChannelFeed)</display-name>
+  </channel>
+  <channel id="cnn_indonesia_(channelfeed)">
+    <display-name>CNN Indonesia (ChannelFeed)</display-name>
+  </channel>
+  <channel id="tvri_world">
+    <display-name>TVRI World</display-name>
+  </channel>
+  <channel id="btv_(denstv)">
+    <display-name>BTV (DensTV)</display-name>
+  </channel>
+  <channel id="berita_satu_(denstv)">
+    <display-name>Berita Satu (DensTV)</display-name>
+  </channel>
+  <channel id="cnbc_indonesia_(channelfeed)">
+    <display-name>CNBC Indonesia (ChannelFeed)</display-name>
+  </channel>
+  <channel id="bn_channel_(channelfeed)">
+    <display-name>BN Channel (ChannelFeed)</display-name>
+  </channel>
+  <channel id="indonesiana_tv_(channelfeed)">
+    <display-name>Indonesiana TV (ChannelFeed)</display-name>
+  </channel>
+  <channel id="garuda_tv_(channelfeed)">
+    <display-name>Garuda TV (ChannelFeed)</display-name>
+  </channel>
+  <channel id="magna_tv_(channelfeed)">
+    <display-name>MAGNA TV (ChannelFeed)</display-name>
+  </channel>
+  <channel id="paramount_network">
+    <display-name>Paramount Network</display-name>
+  </channel>
+  <channel id="bollywood_hd">
+    <display-name>Bollywood HD</display-name>
+  </channel>
+  <channel id="dens_learning_&_knowledge_(denstv)">
+    <display-name>Dens Learning & Knowledge (DensTV)</display-name>
+  </channel>
+  <channel id="dens_showbiz_(denstv)">
+    <display-name>Dens ShowBiz (DENSTV)</display-name>
+  </channel>
+  <channel id="dens_food_channel_(denstv)">
+    <display-name>Dens Food Channel (DensTV)</display-name>
+  </channel>
+  <channel id="dens_life_&_style_(denstv)">
+    <display-name>Dens Life & Style (DensTV)</display-name>
+  </channel>
+  <channel id="vtv">
+    <display-name>VTV</display-name>
+  </channel>
+  <channel id="tvri_sport">
+    <display-name>TVRI Sport</display-name>
+  </channel>
+  <channel id="motorvision+">
+    <display-name>MOTORVISION+</display-name>
+  </channel>
+  <channel id="cna_hd">
+    <display-name>CNA HD</display-name>
+  </channel>
+  <channel id="mediacorp_entertainment_english">
+    <display-name>Mediacorp Entertainment English</display-name>
+  </channel>
+  <channel id="tv_1">
+    <display-name>TV 1</display-name>
+  </channel>
+  <channel id="berita_rtm">
+    <display-name>Berita RTM</display-name>
+  </channel>
+  <channel id="tv_okey">
+    <display-name>TV Okey</display-name>
+  </channel>
+  <channel id="tv_6">
+    <display-name>TV 6</display-name>
+  </channel>
+  <channel id="lead">
+    <display-name>LEAD</display-name>
+  </channel>
+  <channel id="snap">
+    <display-name>SNAP</display-name>
+  </channel>
+  <channel id="roll">
+    <display-name>ROLL</display-name>
+  </channel>
+  <channel id="apetito">
+    <display-name>APETITO</display-name>
+  </channel>
+  <channel id="jr.">
+    <display-name>JR.</display-name>
+  </channel>
+  <channel id="rtm_asean">
+    <display-name>RTM Asean</display-name>
+  </channel>
+  <channel id="dunia_sinema_hd">
+    <display-name>Dunia Sinema HD</display-name>
+  </channel>
+  <channel id="astro_awani">
+    <display-name>Astro Awani</display-name>
+  </channel>
+  <channel id="rtb_go_live_fhd">
+    <display-name>RTB Go Live FHD</display-name>
+  </channel>
+  <channel id="rtb_aneka_fhd">
+    <display-name>RTB Aneka FHD</display-name>
+  </channel>
+  <channel id="kawanua_tv">
+    <display-name>Kawanua TV</display-name>
+  </channel>
+  <channel id="jawapos_tv_semarang">
+    <display-name>Jawapos TV Semarang</display-name>
+  </channel>
+  <channel id="jawapos_tv_jakarta">
+    <display-name>Jawapos TV Jakarta</display-name>
+  </channel>
+  <channel id="jawapos_tv_madiun">
+    <display-name>Jawapos TV Madiun</display-name>
+  </channel>
+  <channel id="jawapos_tv_bali">
+    <display-name>Jawapos TV Bali</display-name>
+  </channel>
+  <channel id="carubantv">
+    <display-name>CarubanTV</display-name>
+  </channel>
+  <channel id="lingkar_tv">
+    <display-name>Lingkar TV</display-name>
+  </channel>
+  <channel id="surabaya_tv">
+    <display-name>Surabaya TV</display-name>
+  </channel>
+  <channel id="tv_tabalong">
+    <display-name>TV Tabalong</display-name>
+  </channel>
+  <channel id="kilisuci_tv_kediri">
+    <display-name>Kilisuci TV Kediri</display-name>
+  </channel>
+  <channel id="pon_tv">
+    <display-name>PON TV</display-name>
+  </channel>
+  <channel id="smtv_sumedang">
+    <display-name>SMTV Sumedang</display-name>
+  </channel>
+  <channel id="timor_tv">
+    <display-name>Timor TV</display-name>
+  </channel>
+  <channel id="staratv_sumedang">
+    <display-name>StaraTV Sumedang</display-name>
+  </channel>
+  <channel id="sultra_tv">
+    <display-name>Sultra TV</display-name>
+  </channel>
+  <channel id="staratv_malang">
+    <display-name>StaraTV Malang</display-name>
+  </channel>
+  <channel id="lingkartv">
+    <display-name>LingkarTV</display-name>
+  </channel>
+  <channel id="staratv_cianjur">
+    <display-name>StaraTV Cianjur</display-name>
+  </channel>
+  <channel id="banjartv">
+    <display-name>BanjarTV</display-name>
+  </channel>
+  <channel id="bantentv">
+    <display-name>BantenTV</display-name>
+  </channel>
+  <channel id="sampit_tv">
+    <display-name>Sampit TV</display-name>
+  </channel>
+  <channel id="brtv">
+    <display-name>BRTV</display-name>
+  </channel>
+  <channel id="jek_tv">
+    <display-name>JEK TV</display-name>
+  </channel>
+  <channel id="dmtv_malang">
+    <display-name>DMTV Malang</display-name>
+  </channel>
+  <channel id="i-radio_jakarta">
+    <display-name>i-Radio Jakarta</display-name>
+  </channel>
+  <channel id="suara_surabaya_fm">
+    <display-name>Suara Surabaya FM</display-name>
+  </channel>
+  <channel id="i-radio_bandung">
+    <display-name>i-Radio Bandung</display-name>
+  </channel>
+  <channel id="i-iradio_medan">
+    <display-name>i-iRadio Medan</display-name>
+  </channel>
+  <channel id="ardan_radio_bandung">
+    <display-name>Ardan Radio Bandung</display-name>
+  </channel>
+  <channel id="i-radio_banjarmasin">
+    <display-name>i-Radio Banjarmasin</display-name>
+  </channel>
+  <channel id="trax_fm_jakarta">
+    <display-name>Trax FM Jakarta</display-name>
+  </channel>
+  <channel id="hard_rock_fm_surabaya">
+    <display-name>Hard Rock FM Surabaya</display-name>
+  </channel>
+  <channel id="cctv_1">
+    <display-name>CCTV 1</display-name>
+  </channel>
+  <channel id="cctv_2">
+    <display-name>CCTV 2</display-name>
+  </channel>
+  <channel id="cctv_4k">
+    <display-name>CCTV 4K</display-name>
+  </channel>
+  <channel id="cctv_3">
+    <display-name>CCTV 3</display-name>
+  </channel>
+  <channel id="cctv_5+">
+    <display-name>CCTV 5+</display-name>
+  </channel>
+  <channel id="cctv_7">
+    <display-name>CCTV 7</display-name>
+  </channel>
+  <channel id="cctv_5">
+    <display-name>CCTV 5</display-name>
+  </channel>
+  <channel id="cctv_8k">
+    <display-name>CCTV 8K</display-name>
+  </channel>
+  <channel id="cctv_9">
+    <display-name>CCTV 9</display-name>
+  </channel>
+  <channel id="cctv_6">
+    <display-name>CCTV 6</display-name>
+  </channel>
+  <channel id="cctv_10">
+    <display-name>CCTV 10</display-name>
+  </channel>
+  <channel id="cctv_13">
+    <display-name>CCTV 13</display-name>
+  </channel>
+  <channel id="cctv_11">
+    <display-name>CCTV 11</display-name>
+  </channel>
+  <channel id="cctv_14">
+    <display-name>CCTV 14</display-name>
+  </channel>
+  <channel id="cctv_12">
+    <display-name>CCTV 12</display-name>
+  </channel>
+  <channel id="cctv_16">
+    <display-name>CCTV 16</display-name>
+  </channel>
+  <channel id="cctv_15">
+    <display-name>CCTV 15</display-name>
+  </channel>
+  <channel id="cctv_17">
+    <display-name>CCTV 17</display-name>
+  </channel>
+</tv>
