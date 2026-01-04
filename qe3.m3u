@@ -1,29 +1,41 @@
 #EXTM3U
 #EXTINF tvg-logo="https://duckduckgo.com/?q=Trans%20TV%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="TransTV.id",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Trans7%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="Trans7.id",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=CNBC%20Indonesia%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=CnnIndonesia+tv+logo&iax=images&ia=images":-1 tvg-id="CnnIndonesia",CnnIndonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=Trans7%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="Trans7.id",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=TVRI%20World+tv+logo&iax=images&ia=images":-1 tvg-id="TVRIWorld.id",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Bloomberg%20Asia+tv+logo&iax=images&ia=images":-1 tvg-id="Bloomberg.com",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=DW%20Documenter+tv+logo&iax=images&ia=images":-1 tvg-id="DW.com",DW Documenter
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=Inspira%20TV%20%28720p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="InspiraTV.id",Inspira TV (720p) [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=RCTV%20%28576p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="RCTV.id",RCTV (576p) [Not 24/7]
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=Sakti%20TV%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="SaktiTV.id",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=Lingkar%20TV+tv+logo&iax=images&ia=images":-1 tvg-id="LingkarTV.id",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=Dhamma%20TV%20%28720p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="DhammaTV.id",Dhamma TV (720p) [Not 24/7]
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=Dhoho%20TV%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="DhohoTV.id",Dhoho TV (720p)
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=Kstv+tv+logo&iax=images&ia=images":-1 tvg-id="Kstv.id",Kstv
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Yahoo%20Finance+tv+logo&iax=images&ia=images":-1 tvg-id="YahooFinance.id",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Redbull.tv+tv+logo&iax=images&ia=images":-1 tvg-id="Redbull.tv",Redbull.tv
+https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/id/en/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Sakti%20TV%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="SaktiTV.id",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=RCTV%20%28576p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="RCTV.id",RCTV (576p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=TV9%20Nusantara%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="TV9Nusantara.id",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=Duta%20TV%20%28360p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="DutaTV.id",Duta TV (360p) [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF tvg-logo="https://duckduckgo.com/?q=Madutv+tv+logo&iax=images&ia=images":-1 tvg-id="Madutv.id",Madutv
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF tvg-logo="https://duckduckgo.com/?q=TV9%20Nusantara%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="TV9Nusantara.id",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Kstv+tv+logo&iax=images&ia=images":-1 tvg-id="Kstv.id",Kstv
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Dhoho%20TV%20%28720p%29+tv+logo&iax=images&ia=images":-1 tvg-id="DhohoTV.id",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Motorsports%20tv+tv+logo&iax=images&ia=images":-1 tvg-id="Motorsports.id",Motorsports tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
+#EXTINF tvg-logo="https://duckduckgo.com/?q=Magna%20Channel%20%281080p%29%20%5BNot%2024/7%5D+tv+logo&iax=images&ia=images":-1 tvg-id="MagnaChannel.id",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
