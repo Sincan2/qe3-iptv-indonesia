@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="QE3 IPTV XML PRO">
+<tv generator-info-name="QE3 IPTV XML PRO FIXED">
   <channel id="biznetadventure1080p">
     <display-name>Biznet Adventure (1080p)</display-name>
   </channel>
@@ -490,7 +490,7 @@
     <display-name>RED BULL TV</display-name>
   </channel>
   <channel id="ttaveltaste">
-    <display-name>TTAVEL & TASTE</display-name>
+    <display-name>TTAVEL &amp; TASTE</display-name>
   </channel>
   <channel id="stingrayclassicrock">
     <display-name>Stingray Classic Rock</display-name>
@@ -508,7 +508,7 @@
     <display-name>Stingray Flashback 70s</display-name>
   </channel>
   <channel id="stingraynothinbut90s">
-    <display-name>Stingray Nothin' But 90s</display-name>
+    <display-name>Stingray Nothin&apos; But 90s</display-name>
   </channel>
   <channel id="stingrayeasylistening">
     <display-name>Stingray Easy Listening</display-name>
@@ -520,7 +520,7 @@
     <display-name>Stingray Romance Latino</display-name>
   </channel>
   <channel id="stingraytodayskpop">
-    <display-name>Stingray Today's KPOP</display-name>
+    <display-name>Stingray Today&apos;s KPOP</display-name>
   </channel>
   <channel id="stingraysoulstorm">
     <display-name>Stingray Soul Storm</display-name>
@@ -535,722 +535,722 @@
     <display-name>Stingray Urban Beat</display-name>
   </channel>
   <channel id="stingraytodayslatinpop">
-    <display-name>Stingray Today's Latin Pop</display-name>
+    <display-name>Stingray Today&apos;s Latin Pop</display-name>
   </channel>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="biznetadventure1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="biznetadventure1080p">
     <title>Biznet Adventure (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="bandungtv360p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="bandungtv360p">
     <title>Bandung TV (360p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="ashiiltv480p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="ashiiltv480p">
     <title>Ashiil TV (480p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="banjartv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="banjartv720pnot247">
     <title>Banjar TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dhammatv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dhammatv720pnot247">
     <title>Dhamma TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="daaitv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="daaitv">
     <title>DAAI TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="balikpapantv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="balikpapantv720p">
     <title>Balikpapan TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="banyumastv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="banyumastv720pnot247">
     <title>Banyumas TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dhohotv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dhohotv720p">
     <title>Dhoho TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cnbcindonesia720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cnbcindonesia720p">
     <title>CNBC Indonesia (720p) Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dmtvmalang">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dmtvmalang">
     <title>DM TV Malang Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="brtv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="brtv720p">
     <title>BRTV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostvmadiun720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostvmadiun720p">
     <title>Jawa Pos TV Madiun (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostv720p">
     <title>Jawa Pos TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="humabetangtv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="humabetangtv720pnot247">
     <title>Huma Betang TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="davikatv480p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="davikatv480p">
     <title>Davika TV (480p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="inspiratv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="inspiratv720pnot247">
     <title>Inspira TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="bungotv480pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="bungotv480pnot247">
     <title>Bungo TV (480p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostvbali576p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostvbali576p">
     <title>Jawa Pos TV Bali (576p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jtv480p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jtv480p">
     <title>JTV (480p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="alwafatarimtvammedia720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="alwafatarimtvammedia720p">
     <title>Alwafa Tarim TV (Am Media) (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="lingkartv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="lingkartv">
     <title>Lingkar TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="iamchannel576p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="iamchannel576p">
     <title>I Am Channel (576p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beritasatuenglish">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beritasatuenglish">
     <title>BeritaSatu English Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="btv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="btv720p">
     <title>BTV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="kilisucitv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="kilisucitv">
     <title>Kilisuci TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostvmagelang720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostvmagelang720p">
     <title>Jawa Pos TV Magelang (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="madutv576p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="madutv576p">
     <title>Madu TV (576p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="elshintatv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="elshintatv">
     <title>Elshinta TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostvsemarang720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostvsemarang720p">
     <title>Jawa Pos TV Semarang (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="biznetkids1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="biznetkids1080p">
     <title>Biznet Kids (1080p) Live</title>
     <category>Kids</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jawapostvjakarta720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jawapostvjakarta720p">
     <title>Jawa Pos TV Jakarta (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="nusantaratv1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="nusantaratv1080p">
     <title>Nusantara TV (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="padangtv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="padangtv720pnot247">
     <title>Padang TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jtvkediri">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jtvkediri">
     <title>JTV Kediri Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="radartasikmalayatv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="radartasikmalayatv720pnot247">
     <title>Radar Tasikmalaya TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="pontv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="pontv720p">
     <title>PONTV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="mqtv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="mqtv720pnot247">
     <title>MQTV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="kawanuatv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="kawanuatv720p">
     <title>Kawanua TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="biznetlifestyle1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="biznetlifestyle1080p">
     <title>Biznet Lifestyle (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="riautv1080pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="riautv1080pnot247">
     <title>Riau TV (1080p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rctv576pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rctv576pnot247">
     <title>RCTV (576p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="pktv480pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="pktv480pnot247">
     <title>PKTV (480p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stv720pnot247">
     <title>STV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rinjanitv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rinjanitv">
     <title>Rinjani TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="smtv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="smtv720pnot247">
     <title>SMTV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="sampittv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="sampittv720pnot247">
     <title>Sampit TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="timortv1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="timortv1080p">
     <title>Timor TV (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="magnachannel1080pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="magnachannel1080pnot247">
     <title>Magna Channel (1080p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rrinet1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rrinet1080p">
     <title>RRI Net (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="saktitv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="saktitv720p">
     <title>Sakti TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="surautv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="surautv720p">
     <title>Surau TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvmui720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvmui720p">
     <title>TV MUI (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="sangajitv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="sangajitv720pnot247">
     <title>Sangaji TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="saliratv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="saliratv720p">
     <title>Salira TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="musicinformationchannel720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="musicinformationchannel720p">
     <title>Music Information Channel (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rbtvjogja1080p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rbtvjogja1080p">
     <title>RBTV Jogja (1080p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tatv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tatv720pnot247">
     <title>TATV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvku720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvku720p">
     <title>TVKU (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rtmasean">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rtmasean">
     <title>RTM ASEAN Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="trans7720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="trans7720p">
     <title>Trans7 (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="uchannel720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="uchannel720p">
     <title>U Channel (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvtabalong720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvtabalong720pnot247">
     <title>TV Tabalong (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="transtv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="transtv720p">
     <title>Trans TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cnbcindonesia">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cnbcindonesia">
     <title>CNBC Indonesia Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="wesaltv720pnot247">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="wesaltv720pnot247">
     <title>Wesal TV (720p) [Not 24/7] Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rodjatv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rodjatv720p">
     <title>Rodja TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cnnindonesia">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cnnindonesia">
     <title>CNN Indonesia Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tv9nusantara720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tv9nusantara720p">
     <title>TV9 Nusantara (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="indosiar2">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="indosiar2">
     <title>Indosiar 2 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="mnctv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="mnctv">
     <title>MNC TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="ugtv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="ugtv720p">
     <title>UGTV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="astroawani">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="astroawani">
     <title>Astro Awani Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="trans7cdg">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="trans7cdg">
     <title>Trans 7 CDG Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="transtvcdg">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="transtvcdg">
     <title>Trans TV CDG Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="mnctvworld">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="mnctvworld">
     <title>MNCTV World ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="mdtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="mdtv">
     <title>MDTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="indosiar">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="indosiar">
     <title>INDOSIAR Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="kompastv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="kompastv">
     <title>Kompas TV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rajawalitv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rajawalitv">
     <title>Rajawali TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="nettv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="nettv">
     <title>Net TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rtv">
     <title>RTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tv6">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tv6">
     <title>TV 6 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="inews">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="inews">
     <title>iNews ᴸᴼᵂ Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="antv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="antv">
     <title>ANTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="btv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="btv">
     <title>BTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="sctv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="sctv">
     <title>SCTV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="transtvhdtranscorp">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="transtvhdtranscorp">
     <title>TransTV HD (TRANSCORP) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="indonesianatv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="indonesianatv">
     <title>Indonesiana TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jaktv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jaktv">
     <title>JakTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="oxygentv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="oxygentv">
     <title>Oxygen TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cnnindonesiachannelfeed">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cnnindonesiachannelfeed">
     <title>CNN Indonesia (ChannelFeed) Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="trans7hdtranscorp">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="trans7hdtranscorp">
     <title>Trans7 HD (TRANSCORP) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cnbcindonesiachannelfeed">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cnbcindonesiachannelfeed">
     <title>CNBC Indonesia (ChannelFeed) Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="saliratv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="saliratv">
     <title>Salira TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvokey">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvokey">
     <title>TV Okey Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="balitv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="balitv">
     <title>Bali TV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jtv">
     <title>JTV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="magnatvchannelfeed">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="magnatvchannelfeed">
     <title>MAGNA TV (ChannelFeed) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="hanacarakatv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="hanacarakatv">
     <title>Hanacaraka TV ᴸᴼᵂ Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="sukanrtm">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="sukanrtm">
     <title>Sukan RTM Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rtbgo">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rtbgo">
     <title>RTB Go Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rtbsukamaindrama">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rtbsukamaindrama">
     <title>RTB sukamaindrama Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beritartm">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beritartm">
     <title>Berita RTM Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="rtbaneka">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="rtbaneka">
     <title>RTB aneka Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="hbtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="hbtv">
     <title>HBTV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvrijakarta">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvrijakarta">
     <title>TVRI Jakarta Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="metrotv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="metrotv">
     <title>Metro TV ᴸᴼᵂ Live</title>
     <category>News</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="ohmyceria">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="ohmyceria">
     <title>Oh My Ceria! Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="aura">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="aura">
     <title>AURA Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="ohmuanglaotv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="ohmuanglaotv720p">
     <title>Oh Muang Lao TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="laothaiustv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="laothaiustv720p">
     <title>Lao-Thai US TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="jr">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="jr">
     <title>JR. Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="laosvtv480p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="laosvtv480p">
     <title>Lao SV TV (480p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="airtv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="airtv720p">
     <title>Air TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="teatv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="teatv720p">
     <title>Tea TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="roll">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="roll">
     <title>ROLL Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="nettvhd">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="nettvhd">
     <title>NET TV HD Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="laosplanettv720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="laosplanettv720p">
     <title>Laos Planet TV (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="cgtndocumentary">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="cgtndocumentary">
     <title>CGTN Documentary Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="uniquelythai720p">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="uniquelythai720p">
     <title>Uniquely Thai (720p) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="worldcup26qualifiers">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="worldcup26qualifiers">
     <title>World Cup 26™ Qualifiers 🇲🇾 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dubaisports2">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dubaisports2">
     <title>DubaiSports 2 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="fitrah">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="fitrah">
     <title>FITRAH Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dubaisports3">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dubaisports3">
     <title>DubaiSports 3 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="apetito">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="apetito">
     <title>APETITO Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="lead">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="lead">
     <title>LEAD Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="snap">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="snap">
     <title>SNAP Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="bnchannel">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="bnchannel">
     <title>BN Channel Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dewannegara">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dewannegara">
     <title>Dewan Negara Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dewanrakyat">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dewanrakyat">
     <title>Dewan Rakyat Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dramahotpot">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dramahotpot">
     <title>Drama Hotpot Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="lawaksentral">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="lawaksentral">
     <title>Lawak Sentral Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="dubaisports1">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="dubaisports1">
     <title>DubaiSports 1 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="tvrinasionalv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="tvrinasionalv">
     <title>TVRI Nasional (V+) Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="filemmantap">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="filemmantap">
     <title>Filem Mantap Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv1">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv1">
     <title>Champions TV 1 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beinsports3a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beinsports3a">
     <title>Bein Sports 3 A 🟡 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="antaratv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="antaratv">
     <title>Antara TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv5">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv5">
     <title>Champions TV 5 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv2">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv2">
     <title>Champions TV 2 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beinsports1a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beinsports1a">
     <title>Bein Sports 1 A 🟡 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beinsports2a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beinsports2a">
     <title>Bein Sports 2 A 🟡 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="imtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="imtv">
     <title>IMTV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="spotva">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="spotva">
     <title>Spotv A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="psjtv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="psjtv">
     <title>PSJ TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="mic">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="mic">
     <title>MIC Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv2a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv2a">
     <title>Champions TV 2 A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="pbskids">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="pbskids">
     <title>PBS KIDS Live</title>
     <category>Kids</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championsgolf1a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championsgolf1a">
     <title>Champions Golf 1 A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championsgolf2a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championsgolf2a">
     <title>Champions Golf 2 A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="nurseryrhymesandbabysongs">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="nurseryrhymesandbabysongs">
     <title>Nursery Rhymes and Baby Songs Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="beinsports1">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="beinsports1">
     <title>Bein Sports 1 🟥 Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="spotv2a">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="spotv2a">
     <title>Spotv 2 A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv6">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv6">
     <title>Champions TV 6 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="horizonsports">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="horizonsports">
     <title>HORIZON SPORTS Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="funplanet">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="funplanet">
     <title>FUN PLANET Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="nbatva">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="nbatva">
     <title>NBA TV A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="championstv3">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="championstv3">
     <title>Champions TV 3 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="toonzkids">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="toonzkids">
     <title>ToonzKids Live</title>
     <category>Kids</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="premierleaguea">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="premierleaguea">
     <title>Premier League A 🟡 Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="sportstv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="sportstv">
     <title>Sports TV Live</title>
     <category>Sports</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="redbulltv">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="redbulltv">
     <title>RED BULL TV Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="ttaveltaste">
-    <title>TTAVEL & TASTE Live</title>
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="ttaveltaste">
+    <title>TTAVEL &amp; TASTE Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayclassicrock">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayclassicrock">
     <title>Stingray Classic Rock Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayhitlist">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayhitlist">
     <title>Stingray Hit List Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayholidayhits">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayholidayhits">
     <title>Stingray Holiday Hits Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayhotcountry">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayhotcountry">
     <title>Stingray Hot Country Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayflashback70s">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayflashback70s">
     <title>Stingray Flashback 70s Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraynothinbut90s">
-    <title>Stingray Nothin' But 90s Live</title>
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraynothinbut90s">
+    <title>Stingray Nothin&apos; But 90s Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayeasylistening">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayeasylistening">
     <title>Stingray Easy Listening Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayrememberthe80s">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayrememberthe80s">
     <title>Stingray Remember the 80s Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayromancelatino">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayromancelatino">
     <title>Stingray Romance Latino Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraytodayskpop">
-    <title>Stingray Today's KPOP Live</title>
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraytodayskpop">
+    <title>Stingray Today&apos;s KPOP Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraysoulstorm">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraysoulstorm">
     <title>Stingray Soul Storm Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraysmoothjazz">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraysmoothjazz">
     <title>Stingray Smooth Jazz Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraythespa">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraythespa">
     <title>Stingray The Spa Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingrayurbanbeat">
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingrayurbanbeat">
     <title>Stingray Urban Beat Live</title>
     <category>Entertainment</category>
   </programme>
-  <programme start="20260107115252 +0000" stop="20260108115252 +0000" channel="stingraytodayslatinpop">
-    <title>Stingray Today's Latin Pop Live</title>
+  <programme start="20260107120432 +0000" stop="20260108120432 +0000" channel="stingraytodayslatinpop">
+    <title>Stingray Today&apos;s Latin Pop Live</title>
     <category>Entertainment</category>
   </programme>
 </tv>
