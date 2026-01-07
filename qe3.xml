@@ -1,2 +1,519 @@
-<?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="1"><display-name>Jawa Pos TV Madiun (720p)</display-name></channel><channel id="2"><display-name>Jawa Pos TV (720p)</display-name></channel><channel id="3"><display-name>Dhamma TV (720p) [Not 24/7]</display-name></channel><channel id="4"><display-name>Ashiil TV (480p)</display-name></channel><channel id="5"><display-name>Bandung TV (360p)</display-name></channel><channel id="6"><display-name>DM TV Malang</display-name></channel><channel id="7"><display-name>Biznet Adventure (1080p)</display-name></channel><channel id="8"><display-name>Banjar TV (720p) [Not 24/7]</display-name></channel><channel id="9"><display-name>Banyumas TV (720p) [Not 24/7]</display-name></channel><channel id="10"><display-name>Dhoho TV (720p)</display-name></channel><channel id="11"><display-name>JTV (480p)</display-name></channel><channel id="12"><display-name>Huma Betang TV (720p) [Not 24/7]</display-name></channel><channel id="13"><display-name>Jawa Pos TV Bali (576p)</display-name></channel><channel id="14"><display-name>Jawa Pos TV Magelang (720p)</display-name></channel><channel id="15"><display-name>Inspira TV (720p) [Not 24/7]</display-name></channel><channel id="16"><display-name>Madu TV (576p)</display-name></channel><channel id="17"><display-name>Jawa Pos TV Semarang (720p)</display-name></channel><channel id="18"><display-name>CNBC Indonesia (720p)</display-name></channel><channel id="19"><display-name>Davika TV (480p)</display-name></channel><channel id="20"><display-name>BRTV (720p)</display-name></channel><channel id="21"><display-name>DAAI TV</display-name></channel><channel id="22"><display-name>I Am Channel (576p)</display-name></channel><channel id="23"><display-name>Jawa Pos TV Jakarta (720p)</display-name></channel><channel id="24"><display-name>Padang TV (720p) [Not 24/7]</display-name></channel><channel id="25"><display-name>Kilisuci TV</display-name></channel><channel id="26"><display-name>JTV Kediri</display-name></channel><channel id="27"><display-name>Balikpapan TV (720p)</display-name></channel><channel id="28"><display-name>Nusantara TV (1080p)</display-name></channel><channel id="29"><display-name>Radar Tasikmalaya TV (720p) [Not 24/7]</display-name></channel><channel id="30"><display-name>Bungo TV (480p) [Not 24/7]</display-name></channel><channel id="31"><display-name>RCTV (576p) [Not 24/7]</display-name></channel><channel id="32"><display-name>PONTV (720p)</display-name></channel><channel id="33"><display-name>Riau TV (1080p) [Not 24/7]</display-name></channel><channel id="34"><display-name>STV (720p) [Not 24/7]</display-name></channel><channel id="35"><display-name>Rinjani TV</display-name></channel><channel id="36"><display-name>MQTV (720p) [Not 24/7]</display-name></channel><channel id="37"><display-name>Kawanua TV (720p)</display-name></channel><channel id="38"><display-name>Timor TV (1080p)</display-name></channel><channel id="39"><display-name>Surau TV (720p)</display-name></channel><channel id="40"><display-name>PKTV (480p) [Not 24/7]</display-name></channel><channel id="41"><display-name>Sakti TV (720p)</display-name></channel><channel id="42"><display-name>TV MUI (720p)</display-name></channel><channel id="43"><display-name>Elshinta TV</display-name></channel><channel id="44"><display-name>SMTV (720p) [Not 24/7]</display-name></channel><channel id="45"><display-name>TATV (720p) [Not 24/7]</display-name></channel><channel id="46"><display-name>Sangaji TV (720p) [Not 24/7]</display-name></channel><channel id="47"><display-name>Sampit TV (720p) [Not 24/7]</display-name></channel><channel id="48"><display-name>U Channel (720p)</display-name></channel><channel id="49"><display-name>Biznet Kids (1080p)</display-name></channel><channel id="50"><display-name>BeritaSatu English</display-name></channel><channel id="51"><display-name>RBTV Jogja (1080p)</display-name></channel><channel id="52"><display-name>TVKU (720p)</display-name></channel><channel id="53"><display-name>TV Tabalong (720p) [Not 24/7]</display-name></channel><channel id="54"><display-name>Wesal TV (720p) [Not 24/7]</display-name></channel><channel id="55"><display-name>Biznet Lifestyle (1080p)</display-name></channel><channel id="56"><display-name>Magna Channel (1080p) [Not 24/7]</display-name></channel><channel id="57"><display-name>CNN Indonesia</display-name></channel><channel id="58"><display-name>Trans7 (720p)</display-name></channel><channel id="59"><display-name>CNBC Indonesia</display-name></channel><channel id="60"><display-name>MNC TV</display-name></channel><channel id="61"><display-name>RTM ASEAN</display-name></channel><channel id="62"><display-name>Music Information Channel (720p)</display-name></channel><channel id="63"><display-name>Trans TV (720p)</display-name></channel><channel id="64"><display-name>TV9 Nusantara (720p)</display-name></channel><channel id="65"><display-name>Trans TV CDG</display-name></channel><channel id="66"><display-name>Trans 7 CDG</display-name></channel><channel id="67"><display-name>RTV ᴸᴼᵂ</display-name></channel><channel id="68"><display-name>Rodja TV (720p)</display-name></channel><channel id="69"><display-name>MDTV ᴸᴼᵂ</display-name></channel><channel id="70"><display-name>MNCTV World ᴸᴼᵂ</display-name></channel><channel id="71"><display-name>JakTV ᴸᴼᵂ</display-name></channel><channel id="72"><display-name>Indosiar 2</display-name></channel><channel id="73"><display-name>INDOSIAR</display-name></channel><channel id="74"><display-name>TransTV HD (TRANSCORP)</display-name></channel><channel id="75"><display-name>CNN Indonesia (ChannelFeed)</display-name></channel><channel id="76"><display-name>Indonesiana TV</display-name></channel><channel id="77"><display-name>Trans7 HD (TRANSCORP)</display-name></channel><channel id="78"><display-name>Astro Awani</display-name></channel><channel id="79"><display-name>ANTV ᴸᴼᵂ</display-name></channel><channel id="80"><display-name>iNews ᴸᴼᵂ</display-name></channel><channel id="81"><display-name>JTV ᴸᴼᵂ</display-name></channel><channel id="82"><display-name>Kompas TV ᴸᴼᵂ</display-name></channel><channel id="83"><display-name>Net TV</display-name></channel><channel id="84"><display-name>CNBC Indonesia (ChannelFeed)</display-name></channel><channel id="85"><display-name>Oxygen TV</display-name></channel><channel id="86"><display-name>MAGNA TV (ChannelFeed)</display-name></channel><channel id="87"><display-name>BTV ᴸᴼᵂ</display-name></channel><channel id="88"><display-name>SCTV</display-name></channel><channel id="89"><display-name>Metro TV ᴸᴼᵂ</display-name></channel><channel id="90"><display-name>RTB sukamaindrama</display-name></channel><channel id="91"><display-name>RTB aneka</display-name></channel><channel id="92"><display-name>HBTV</display-name></channel><channel id="93"><display-name>Bali TV ᴸᴼᵂ</display-name></channel><channel id="94"><display-name>RTB Go</display-name></channel><channel id="95"><display-name>Hanacaraka TV ᴸᴼᵂ</display-name></channel><channel id="96"><display-name>Lao-Thai US TV (720p)</display-name></channel><channel id="97"><display-name>Oh Muang Lao TV (720p)</display-name></channel><channel id="98"><display-name>TV 6</display-name></channel><channel id="99"><display-name>JR.</display-name></channel><channel id="100"><display-name>Tea TV (720p)</display-name></channel><channel id="101"><display-name>Lao SV TV (480p)</display-name></channel><channel id="102"><display-name>CGTN Documentary</display-name></channel><channel id="103"><display-name>Uniquely Thai (720p)</display-name></channel><channel id="104"><display-name>TVRI Jakarta</display-name></channel><channel id="105"><display-name>Berita RTM</display-name></channel><channel id="106"><display-name>Sukan RTM</display-name></channel><channel id="107"><display-name>Laos Planet TV (720p)</display-name></channel><channel id="108"><display-name>Air TV (720p)</display-name></channel><channel id="109"><display-name>NET TV HD</display-name></channel><channel id="110"><display-name>AURA</display-name></channel><channel id="111"><display-name>ROLL</display-name></channel><channel id="112"><display-name>FITRAH</display-name></channel><channel id="113"><display-name>LEAD</display-name></channel><channel id="114"><display-name>APETITO</display-name></channel><channel id="115"><display-name>SNAP</display-name></channel><channel id="116"><display-name>Bein Sports 3 A 🟡</display-name></channel><channel id="117"><display-name>IMTV</display-name></channel><channel id="118"><display-name>BN Channel</display-name></channel><channel id="119"><display-name>World Cup 26™ Qualifiers 🇲🇾</display-name></channel><channel id="120"><display-name>MIC</display-name></channel><channel id="121"><display-name>Bein Sports 1 A 🟡</display-name></channel><channel id="122"><display-name>Dewan Negara</display-name></channel><channel id="123"><display-name>Champions TV 1</display-name></channel><channel id="124"><display-name>Dewan Rakyat</display-name></channel><channel id="125"><display-name>Bein Sports 2 A 🟡</display-name></channel><channel id="126"><display-name>PBS KIDS</display-name></channel><channel id="127"><display-name>PSJ TV</display-name></channel><channel id="128"><display-name>Spotv A 🟡</display-name></channel><channel id="129"><display-name>Bein Sports 1 🟥</display-name></channel><channel id="130"><display-name>Champions Golf 1 A 🟡</display-name></channel><channel id="131"><display-name>Champions TV 2</display-name></channel><channel id="132"><display-name>Champions Golf 2 A 🟡</display-name></channel><channel id="133"><display-name>Antara TV</display-name></channel><channel id="134"><display-name>HORIZON SPORTS</display-name></channel><channel id="135"><display-name>Champions TV 5</display-name></channel><channel id="136"><display-name>Champions TV 3</display-name></channel><channel id="137"><display-name>Champions TV 6</display-name></channel><channel id="138"><display-name>NBA TV A 🟡</display-name></channel><channel id="139"><display-name>FUN PLANET</display-name></channel><channel id="140"><display-name>Sports TV</display-name></channel></tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="jawapostvmadiun">
+    <display-name>Jawa Pos TV Madiun (720p)</display-name>
+  </channel>
+  <channel id="jawapostv">
+    <display-name>Jawa Pos TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/>
+  </channel>
+  <channel id="dhammatvnot247">
+    <display-name>Dhamma TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="ashiiltv">
+    <display-name>Ashiil TV (480p)</display-name>
+    <icon src="https://i.imgur.com/bTktkcr.png"/>
+  </channel>
+  <channel id="bandungtv">
+    <display-name>Bandung TV (360p)</display-name>
+    <icon src="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png"/>
+  </channel>
+  <channel id="dmtvmalang">
+    <display-name>DM TV Malang</display-name>
+    <icon src="https://i.imgur.com/3iC41QX.png"/>
+  </channel>
+  <channel id="biznetadventure">
+    <display-name>Biznet Adventure (1080p)</display-name>
+    <icon src="https://i.imgur.com/ZREy4zM.png"/>
+  </channel>
+  <channel id="banjartvnot247">
+    <display-name>Banjar TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="banyumastvnot247">
+    <display-name>Banyumas TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="dhohotv">
+    <display-name>Dhoho TV (720p)</display-name>
+    <icon src="https://i.imgur.com/4Khyyfh.png"/>
+  </channel>
+  <channel id="jtv">
+    <display-name>JTV (480p)</display-name>
+    <icon src="https://i.imgur.com/zc2m218.png"/>
+  </channel>
+  <channel id="humabetangtvnot247">
+    <display-name>Huma Betang TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="jawapostvbali">
+    <display-name>Jawa Pos TV Bali (576p)</display-name>
+  </channel>
+  <channel id="jawapostvmagelang">
+    <display-name>Jawa Pos TV Magelang (720p)</display-name>
+  </channel>
+  <channel id="inspiratvnot247">
+    <display-name>Inspira TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="madutv">
+    <display-name>Madu TV (576p)</display-name>
+    <icon src="https://i.imgur.com/cKpgbgW.png"/>
+  </channel>
+  <channel id="jawapostvsemarang">
+    <display-name>Jawa Pos TV Semarang (720p)</display-name>
+  </channel>
+  <channel id="cnbcindonesia">
+    <display-name>CNBC Indonesia (720p)</display-name>
+    <icon src="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png"/>
+  </channel>
+  <channel id="davikatv">
+    <display-name>Davika TV (480p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"/>
+  </channel>
+  <channel id="brtv">
+    <display-name>BRTV (720p)</display-name>
+    <icon src="https://i.imgur.com/WEMfHas.png"/>
+  </channel>
+  <channel id="daaitv">
+    <display-name>DAAI TV</display-name>
+    <icon src="https://i.imgur.com/YC7JCHo.png"/>
+  </channel>
+  <channel id="iamchannel">
+    <display-name>I Am Channel (576p)</display-name>
+    <icon src="url"/>
+  </channel>
+  <channel id="jawapostvjakarta">
+    <display-name>Jawa Pos TV Jakarta (720p)</display-name>
+  </channel>
+  <channel id="padangtvnot247">
+    <display-name>Padang TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="kilisucitv">
+    <display-name>Kilisuci TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"/>
+  </channel>
+  <channel id="jtvkediri">
+    <display-name>JTV Kediri</display-name>
+  </channel>
+  <channel id="balikpapantv">
+    <display-name>Balikpapan TV (720p)</display-name>
+    <icon src="https://i.postimg.cc/vB2NvmPD/balikpapantv.png"/>
+  </channel>
+  <channel id="nusantaratv">
+    <display-name>Nusantara TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/viun5hj.png"/>
+  </channel>
+  <channel id="radartasikmalayatvnot247">
+    <display-name>Radar Tasikmalaya TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="bungotvnot247">
+    <display-name>Bungo TV (480p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="rctvnot247">
+    <display-name>RCTV (576p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="pontv">
+    <display-name>PONTV (720p)</display-name>
+    <icon src="https://i.imgur.com/D8lhZCI.png"/>
+  </channel>
+  <channel id="riautvnot247">
+    <display-name>Riau TV (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="stvnot247">
+    <display-name>STV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="rinjanitv">
+    <display-name>Rinjani TV</display-name>
+    <icon src="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png"/>
+  </channel>
+  <channel id="mqtvnot247">
+    <display-name>MQTV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="kawanuatv">
+    <display-name>Kawanua TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png"/>
+  </channel>
+  <channel id="timortv">
+    <display-name>Timor TV (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png"/>
+  </channel>
+  <channel id="surautv">
+    <display-name>Surau TV (720p)</display-name>
+    <icon src="https://i.imgur.com/CKoxcWL.png"/>
+  </channel>
+  <channel id="pktvnot247">
+    <display-name>PKTV (480p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="saktitv">
+    <display-name>Sakti TV (720p)</display-name>
+    <icon src="https://i.imgur.com/IDNjMfQ.png"/>
+  </channel>
+  <channel id="tvmui">
+    <display-name>TV MUI (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/>
+  </channel>
+  <channel id="elshintatv">
+    <display-name>Elshinta TV</display-name>
+    <icon src="https://i.imgur.com/x5uoy2H.png"/>
+  </channel>
+  <channel id="smtvnot247">
+    <display-name>SMTV (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"/>
+  </channel>
+  <channel id="tatvnot247">
+    <display-name>TATV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="sangajitvnot247">
+    <display-name>Sangaji TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="sampittvnot247">
+    <display-name>Sampit TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="uchannel">
+    <display-name>U Channel (720p)</display-name>
+    <icon src="url"/>
+  </channel>
+  <channel id="biznetkids">
+    <display-name>Biznet Kids (1080p)</display-name>
+    <icon src="https://i.imgur.com/J5QNqJ0.png"/>
+  </channel>
+  <channel id="beritasatuenglish">
+    <display-name>BeritaSatu English</display-name>
+    <icon src="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg"/>
+  </channel>
+  <channel id="rbtvjogja">
+    <display-name>RBTV Jogja (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png"/>
+  </channel>
+  <channel id="tvku">
+    <display-name>TVKU (720p)</display-name>
+    <icon src="https://i.postimg.cc/bJpyzPbB/afbtv.png"/>
+  </channel>
+  <channel id="tvtabalongnot247">
+    <display-name>TV Tabalong (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="wesaltvnot247">
+    <display-name>Wesal TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="biznetlifestyle">
+    <display-name>Biznet Lifestyle (1080p)</display-name>
+    <icon src="https://i.imgur.com/XqUfQKA.png"/>
+  </channel>
+  <channel id="magnachannelnot247">
+    <display-name>Magna Channel (1080p) [Not 24/7]</display-name>
+    <icon src="url"/>
+  </channel>
+  <channel id="cnnindonesia">
+    <display-name>CNN Indonesia</display-name>
+    <icon src="https://i.postimg.cc/ZnXBpXXX/cnnindonesia.png"/>
+  </channel>
+  <channel id="trans7">
+    <display-name>Trans7 (720p)</display-name>
+    <icon src="https://i.postimg.cc/mDyXTGKT/trans7.png"/>
+  </channel>
+  <channel id="cnbcindonesia">
+    <display-name>CNBC Indonesia</display-name>
+    <icon src="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png"/>
+  </channel>
+  <channel id="mnctv">
+    <display-name>MNC TV</display-name>
+    <icon src="https://i.imgur.com/SK8pjQy.png"/>
+  </channel>
+  <channel id="rtmasean">
+    <display-name>RTM ASEAN</display-name>
+    <icon src="https://i.imgur.com/skAiUxg.png"/>
+  </channel>
+  <channel id="musicinformationchannel">
+    <display-name>Music Information Channel (720p)</display-name>
+    <icon src="url"/>
+  </channel>
+  <channel id="transtv">
+    <display-name>Trans TV (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/>
+  </channel>
+  <channel id="tv9nusantara">
+    <display-name>TV9 Nusantara (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/>
+  </channel>
+  <channel id="transtvcdg">
+    <display-name>Trans TV CDG</display-name>
+  </channel>
+  <channel id="trans7cdg">
+    <display-name>Trans 7 CDG</display-name>
+  </channel>
+  <channel id="rtv">
+    <display-name>RTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/HEfeYJc.png"/>
+  </channel>
+  <channel id="rodjatv">
+    <display-name>Rodja TV (720p)</display-name>
+    <icon src="https://i.imgur.com/XwCeHlC.png"/>
+  </channel>
+  <channel id="mdtv">
+    <display-name>MDTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/5oraHc0.png"/>
+  </channel>
+  <channel id="mnctvworld">
+    <display-name>MNCTV World ᴸᴼᵂ</display-name>
+  </channel>
+  <channel id="jaktv">
+    <display-name>JakTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.postimg.cc/zDPpBB2P/djaktv.png"/>
+  </channel>
+  <channel id="indosiar2">
+    <display-name>Indosiar 2</display-name>
+  </channel>
+  <channel id="indosiar">
+    <display-name>INDOSIAR</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/>
+  </channel>
+  <channel id="transtv">
+    <display-name>TransTV HD (TRANSCORP)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/>
+  </channel>
+  <channel id="cnnindonesia">
+    <display-name>CNN Indonesia (ChannelFeed)</display-name>
+    <icon src="https://i.postimg.cc/ZnXBpXXX/cnnindonesia.png"/>
+  </channel>
+  <channel id="indonesianatv">
+    <display-name>Indonesiana TV</display-name>
+    <icon src="https://i.imgur.com/192wiS1.png"/>
+  </channel>
+  <channel id="trans7">
+    <display-name>Trans7 HD (TRANSCORP)</display-name>
+    <icon src="https://i.postimg.cc/mDyXTGKT/trans7.png"/>
+  </channel>
+  <channel id="astroawani">
+    <display-name>Astro Awani</display-name>
+    <icon src="https://i.imgur.com/dLzgBUj.png"/>
+  </channel>
+  <channel id="antv">
+    <display-name>ANTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/xhyDrwe.png"/>
+  </channel>
+  <channel id="inews">
+    <display-name>iNews ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/1qkCcqY.png"/>
+  </channel>
+  <channel id="jtv">
+    <display-name>JTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/zc2m218.png"/>
+  </channel>
+  <channel id="kompastv">
+    <display-name>Kompas TV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/bD6UHeZ.png"/>
+  </channel>
+  <channel id="nettv">
+    <display-name>Net TV</display-name>
+    <icon src="https://i.imgur.com/4jliftn.png"/>
+  </channel>
+  <channel id="cnbcindonesia">
+    <display-name>CNBC Indonesia (ChannelFeed)</display-name>
+    <icon src="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png"/>
+  </channel>
+  <channel id="oxygentv">
+    <display-name>Oxygen TV</display-name>
+  </channel>
+  <channel id="magnatv">
+    <display-name>MAGNA TV (ChannelFeed)</display-name>
+  </channel>
+  <channel id="btv">
+    <display-name>BTV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/1PIm51D.png"/>
+  </channel>
+  <channel id="sctv">
+    <display-name>SCTV</display-name>
+    <icon src="https://i.imgur.com/NxRkKYv.jpeg"/>
+  </channel>
+  <channel id="metrotv">
+    <display-name>Metro TV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/0aoI5Zd.jpeg"/>
+  </channel>
+  <channel id="rtbsukamaindrama">
+    <display-name>RTB sukamaindrama</display-name>
+  </channel>
+  <channel id="rtbaneka">
+    <display-name>RTB aneka</display-name>
+    <icon src="https://i.imgur.com/MY40GrC.png"/>
+  </channel>
+  <channel id="hbtv">
+    <display-name>HBTV</display-name>
+    <icon src="https://i.imgur.com/xADoSqE.png"/>
+  </channel>
+  <channel id="balitv">
+    <display-name>Bali TV ᴸᴼᵂ</display-name>
+    <icon src="https://i.imgur.com/uH1Szme.png"/>
+  </channel>
+  <channel id="rtbgo">
+    <display-name>RTB Go</display-name>
+    <icon src="https://i.imgur.com/CGlzsD5.png"/>
+  </channel>
+  <channel id="hanacarakatv">
+    <display-name>Hanacaraka TV ᴸᴼᵂ</display-name>
+  </channel>
+  <channel id="laothaiustv">
+    <display-name>Lao-Thai US TV (720p)</display-name>
+  </channel>
+  <channel id="ohmuanglaotv">
+    <display-name>Oh Muang Lao TV (720p)</display-name>
+    <icon src="https://i.imgur.com/SdB3Vyr.jpg"/>
+  </channel>
+  <channel id="tv6">
+    <display-name>TV 6</display-name>
+    <icon src="https://i.postimg.cc/fWVjW4nn/Binh-Duong-TV-6.png"/>
+  </channel>
+  <channel id="jr">
+    <display-name>JR.</display-name>
+    <icon src="https://i.imgur.com/xl5o8tD.png"/>
+  </channel>
+  <channel id="teatv">
+    <display-name>Tea TV (720p)</display-name>
+    <icon src="https://i.imgur.com/Ul4IIfX.png"/>
+  </channel>
+  <channel id="laosvtv">
+    <display-name>Lao SV TV (480p)</display-name>
+    <icon src="https://i.imgur.com/ZIXtazI.png"/>
+  </channel>
+  <channel id="cgtndocumentary">
+    <display-name>CGTN Documentary</display-name>
+    <icon src="https://i.postimg.cc/QdygSn1N/cgtndocumentary.png"/>
+  </channel>
+  <channel id="uniquelythai">
+    <display-name>Uniquely Thai (720p)</display-name>
+    <icon src="https://i.imgur.com/cTSDB8O.png"/>
+  </channel>
+  <channel id="tvrijakarta">
+    <display-name>TVRI Jakarta</display-name>
+  </channel>
+  <channel id="beritartm">
+    <display-name>Berita RTM</display-name>
+    <icon src="https://i.imgur.com/1Xzxsgl.png"/>
+  </channel>
+  <channel id="sukanrtm">
+    <display-name>Sukan RTM</display-name>
+    <icon src="https://i.imgur.com/1pYYSu2.png"/>
+  </channel>
+  <channel id="laosplanettv">
+    <display-name>Laos Planet TV (720p)</display-name>
+    <icon src="https://i.imgur.com/u4ynifa.png"/>
+  </channel>
+  <channel id="airtv">
+    <display-name>Air TV (720p)</display-name>
+    <icon src="https://i.imgur.com/dooThJp.png"/>
+  </channel>
+  <channel id="nettv">
+    <display-name>NET TV HD</display-name>
+    <icon src="https://i.imgur.com/4jliftn.png"/>
+  </channel>
+  <channel id="aura">
+    <display-name>AURA</display-name>
+    <icon src="https://i.imgur.com/oBOZVFJ.png"/>
+  </channel>
+  <channel id="roll">
+    <display-name>ROLL</display-name>
+    <icon src="https://i.imgur.com/G5u9ev1.png"/>
+  </channel>
+  <channel id="fitrah">
+    <display-name>FITRAH</display-name>
+  </channel>
+  <channel id="lead">
+    <display-name>LEAD</display-name>
+    <icon src="https://i.imgur.com/73HlRCg.png"/>
+  </channel>
+  <channel id="apetito">
+    <display-name>APETITO</display-name>
+  </channel>
+  <channel id="snap">
+    <display-name>SNAP</display-name>
+    <icon src="https://i.imgur.com/RsGiBwE.png"/>
+  </channel>
+  <channel id="beinsports3a">
+    <display-name>Bein Sports 3 A 🟡</display-name>
+  </channel>
+  <channel id="imtv">
+    <display-name>IMTV</display-name>
+    <icon src="https://i.imgur.com/gWgvm0I.png"/>
+  </channel>
+  <channel id="bnchannel">
+    <display-name>BN Channel</display-name>
+    <icon src="url"/>
+  </channel>
+  <channel id="worldcup26qualifiers">
+    <display-name>World Cup 26™ Qualifiers 🇲🇾</display-name>
+  </channel>
+  <channel id="mic">
+    <display-name>MIC</display-name>
+    <icon src="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x50681"/>
+  </channel>
+  <channel id="beinsports1a">
+    <display-name>Bein Sports 1 A 🟡</display-name>
+  </channel>
+  <channel id="dewannegara">
+    <display-name>Dewan Negara</display-name>
+    <icon src="https://i.postimg.cc/mgrVsTMY/header.png"/>
+  </channel>
+  <channel id="championstv1">
+    <display-name>Champions TV 1</display-name>
+    <icon src="https://i.imgur.com/ctwmSHa.png"/>
+  </channel>
+  <channel id="dewanrakyat">
+    <display-name>Dewan Rakyat</display-name>
+    <icon src="https://i.postimg.cc/mgrVsTMY/header.png"/>
+  </channel>
+  <channel id="beinsports2a">
+    <display-name>Bein Sports 2 A 🟡</display-name>
+  </channel>
+  <channel id="pbskids">
+    <display-name>PBS KIDS</display-name>
+    <icon src="https://i.postimg.cc/bNzxQV3M/pbskids.png"/>
+  </channel>
+  <channel id="psjtv">
+    <display-name>PSJ TV</display-name>
+    <icon src="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png"/>
+  </channel>
+  <channel id="spotva">
+    <display-name>Spotv A 🟡</display-name>
+  </channel>
+  <channel id="beinsports1">
+    <display-name>Bein Sports 1 🟥</display-name>
+    <icon src="https://i.postimg.cc/pLyYDBwQ/beinsports1.png"/>
+  </channel>
+  <channel id="championsgolf1a">
+    <display-name>Champions Golf 1 A 🟡</display-name>
+  </channel>
+  <channel id="championstv2">
+    <display-name>Champions TV 2</display-name>
+    <icon src="https://i.imgur.com/oYUUKra.png"/>
+  </channel>
+  <channel id="championsgolf2a">
+    <display-name>Champions Golf 2 A 🟡</display-name>
+  </channel>
+  <channel id="antaratv">
+    <display-name>Antara TV</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/>
+  </channel>
+  <channel id="horizonsports">
+    <display-name>HORIZON SPORTS</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988cebac4421ebc533612/images/logo_20231219_213910_70.png"/>
+  </channel>
+  <channel id="championstv5">
+    <display-name>Champions TV 5</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/d-s_Kf07gVolGnnU78fa7Zwe6OA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-7838ab.jpg"/>
+  </channel>
+  <channel id="championstv3">
+    <display-name>Champions TV 3</display-name>
+    <icon src="https://i.imgur.com/xVwVIj6.png"/>
+  </channel>
+  <channel id="championstv6">
+    <display-name>Champions TV 6</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/M-OjFdz5vPoCtfuqZ8PoJF4Pe0g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-c8e810.jpg"/>
+  </channel>
+  <channel id="nbatva">
+    <display-name>NBA TV A 🟡</display-name>
+  </channel>
+  <channel id="funplanet">
+    <display-name>FUN PLANET</display-name>
+    <icon src="https://i.postimg.cc/Hkwmq94K/Fun-Planet.png"/>
+  </channel>
+  <channel id="sportstv">
+    <display-name>Sports TV</display-name>
+    <icon src="https://i.imgur.com/9oyc88J.png"/>
+  </channel>
+</tv>
