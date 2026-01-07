@@ -1,245 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="411952">
-    <display-name>Jawa Pos TV Madiun (720p)</display-name>
+  <channel id="171892">
+    <display-name>RCTI</display-name>
+  </channel>
+  <channel id="171875">
+    <display-name>MNCTV</display-name>
+  </channel>
+  <channel id="171924">
+    <display-name>GTV</display-name>
+  </channel>
+  <channel id="171854">
+    <display-name>SCTV</display-name>
+  </channel>
+  <channel id="171847">
+    <display-name>INDOSIAR</display-name>
+  </channel>
+  <channel id="172012">
+    <display-name>ANTV</display-name>
+  </channel>
+  <channel id="11695">
+    <display-name>TRANS TV</display-name>
+  </channel>
+  <channel id="417399">
+    <display-name>Trans 7</display-name>
+  </channel>
+  <channel id="MDTV.id">
+    <display-name>MDTV</display-name>
+  </channel>
+  <channel id="11691">
+    <display-name>TVONE</display-name>
+  </channel>
+  <channel id="171942">
+    <display-name>METRO TV</display-name>
+  </channel>
+  <channel id="171891">
+    <display-name>KOMPAS TV</display-name>
+  </channel>
+  <channel id="171931">
+    <display-name>INEWS</display-name>
+  </channel>
+  <channel id="411938">
+    <display-name>BERITA SATU</display-name>
+  </channel>
+  <channel id="411927">
+    <display-name>CNBC INDONESIA</display-name>
+  </channel>
+  <channel id="171905">
+    <display-name>JAKTV</display-name>
+  </channel>
+  <channel id="417396">
+    <display-name>JTV</display-name>
+  </channel>
+  <channel id="411974">
+    <display-name>BALI TV</display-name>
+  </channel>
+  <channel id="417395">
+    <display-name>MENTARI TV</display-name>
+  </channel>
+  <channel id="171991">
+    <display-name>BTV</display-name>
+  </channel>
+  <channel id="171880">
+    <display-name>SINDO NEWS TV</display-name>
+  </channel>
+  <channel id="171977">
+    <display-name>ROCK ACTION</display-name>
+  </channel>
+  <channel id="171917">
+    <display-name>ROCK ENTERTAINMENT</display-name>
+  </channel>
+  <channel id="171853">
+    <display-name>GALAXY PREMIUM</display-name>
+  </channel>
+  <channel id="171982">
+    <display-name>GALAXY</display-name>
+  </channel>
+  <channel id="171967">
+    <display-name>HITS MOVIES</display-name>
+  </channel>
+  <channel id="411983">
+    <display-name>STUDIO UNIVERSAL</display-name>
+  </channel>
+  <channel id="171887">
+    <display-name>AXN</display-name>
+  </channel>
+  <channel id="411934">
+    <display-name>ORIGINALS</display-name>
+  </channel>
+  <channel id="411923">
+    <display-name>CINEEDGE</display-name>
+  </channel>
+  <channel id="411982">
+    <display-name>UNIQUES</display-name>
+  </channel>
+  <channel id="411947">
+    <display-name>SUPRERRIX</display-name>
+  </channel>
+  <channel id="BuddyStar.id">
+    <display-name>BUDDY STAR</display-name>
+  </channel>
+  <channel id="412000">
+    <display-name>HITS NOW</display-name>
+  </channel>
+  <channel id="171990">
+    <display-name>HITS</display-name>
+  </channel>
+  <channel id="171941">
+    <display-name>VISION PRIME HD</display-name>
+  </channel>
+  <channel id="411922">
+    <display-name>CITRA DRAMA</display-name>
+  </channel>
+  <channel id="411967">
+    <display-name>BIOSKOP INDONESIA</display-name>
+  </channel>
+  <channel id="171864">
+    <display-name>THRILL</display-name>
+  </channel>
+  <channel id="171877">
+    <display-name>KIX</display-name>
+  </channel>
+  <channel id="171933">
+    <display-name>ONE</display-name>
+  </channel>
+  <channel id="171966">
+    <display-name>TVN HD</display-name>
+  </channel>
+  <channel id="171850">
+    <display-name>TVN MOVIES</display-name>
+  </channel>
+  <channel id="171999">
+    <display-name>CELESTIAL MOVIES</display-name>
+  </channel>
+  <channel id="171856">
+    <display-name>CCM</display-name>
+  </channel>
+  <channel id="443470">
+    <display-name>Z BIOSKOP</display-name>
+  </channel>
+  <channel id="171861">
+    <display-name>LIFE</display-name>
+  </channel>
+  <channel id="171863">
+    <display-name>NICK JR</display-name>
+  </channel>
+  <channel id="171930">
+    <display-name>NICKELODEON</display-name>
+  </channel>
+  <channel id="171849">
+    <display-name>CBEEBIES</display-name>
+  </channel>
+  <channel id="411937">
+    <display-name>DUNIA ANAK</display-name>
+  </channel>
+  <channel id="411990">
+    <display-name>MY KIDZ</display-name>
+  </channel>
+  <channel id="412010">
+    <display-name>CARTOONITO</display-name>
+  </channel>
+  <channel id="411935">
+    <display-name>CARTOON NETWORK</display-name>
+  </channel>
+  <channel id="171899">
+    <display-name>DREAMWORKS</display-name>
+  </channel>
+  <channel id="411976">
+    <display-name>FUN PLANET</display-name>
+  </channel>
+  <channel id="411954">
+    <display-name>ANIPLUS</display-name>
+  </channel>
+  <channel id="171962">
+    <display-name>ZOOMOO</display-name>
+  </channel>
+  <channel id="412013">
+    <display-name>DISCOVERY CHANNEL HD</display-name>
+  </channel>
+  <channel id="171907">
+    <display-name>BBC EARTH</display-name>
+  </channel>
+  <channel id="411926">
+    <display-name>ANIMAL PLANET</display-name>
+  </channel>
+  <channel id="171922">
+    <display-name>CRIME INVESTIGATION</display-name>
+  </channel>
+  <channel id="171883">
+    <display-name>HISTORY</display-name>
+  </channel>
+  <channel id="171981">
+    <display-name>GLOBAL TREKKER</display-name>
+  </channel>
+  <channel id="4171">
+    <display-name>LOVE NATURE 4K</display-name>
+  </channel>
+  <channel id="171870">
+    <display-name>CGTN DOCUMENTARY</display-name>
+  </channel>
+  <channel id="171940">
+    <display-name>OUTDOOR CHANNEL</display-name>
+  </channel>
+  <channel id="411943">
+    <display-name>DISCOVERY ASIA</display-name>
+  </channel>
+  <channel id="411929">
+    <display-name>HGTV</display-name>
+  </channel>
+  <channel id="411942">
+    <display-name>TLC</display-name>
+  </channel>
+  <channel id="171956">
+    <display-name>LIFETIME</display-name>
+  </channel>
+  <channel id="411961">
+    <display-name>HANACARAKA TV</display-name>
+  </channel>
+  <channel id="171916">
+    <display-name>CELEBRITIES TV</display-name>
+  </channel>
+  <channel id="171983">
+    <display-name>NHK WORLD</display-name>
+  </channel>
+  <channel id="171886">
+    <display-name>NHK WORLD PREMIUM</display-name>
+  </channel>
+  <channel id="171896">
+    <display-name>ARIRANG</display-name>
+  </channel>
+  <channel id="412120">
+    <display-name>TRAVELXP</display-name>
+  </channel>
+  <channel id="411931">
+    <display-name>FASHION TV</display-name>
+  </channel>
+  <channel id="171879">
+    <display-name>MTV LIVE</display-name>
+  </channel>
+  <channel id="171915">
+    <display-name>SPOTV</display-name>
+  </channel>
+  <channel id="171878">
+    <display-name>SPOTV2</display-name>
+  </channel>
+  <channel id="171939">
+    <display-name>SOCCER CHANNEL</display-name>
+  </channel>
+  <channel id="171897">
+    <display-name>SPORTSTARS 2</display-name>
+  </channel>
+  <channel id="171985">
+    <display-name>SPORTSTARS 4</display-name>
+  </channel>
+  <channel id="411956">
+    <display-name>BEIN SPORTS 1</display-name>
+  </channel>
+  <channel id="411918">
+    <display-name>BEIN SPORTS 2</display-name>
+  </channel>
+  <channel id="411914">
+    <display-name>BEIN SPORTS 3</display-name>
+  </channel>
+  <channel id="411975">
+    <display-name>BEIN SPORTS 4</display-name>
+  </channel>
+  <channel id="411940">
+    <display-name>BEIN SPORTS 5</display-name>
+  </channel>
+  <channel id="397403">
+    <display-name>ASTRO GRANDSTAND</display-name>
+  </channel>
+  <channel id="397397">
+    <display-name>ASTRO PREMIER LEAGUE 2</display-name>
+  </channel>
+  <channel id="397399">
+    <display-name>ASTRO FOOTBALL</display-name>
+  </channel>
+  <channel id="171902">
+    <display-name>FIGHT SPORTS</display-name>
   </channel>
   <channel id="411952">
     <display-name>Jawa Pos TV (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_jawapos.png"/>
-  </channel>
-  <channel id="171966">
-    <display-name>Dhamma TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171924">
-    <display-name>Bandung TV (360p)</display-name>
-  </channel>
-  <channel id="411915">
-    <display-name>Biznet Adventure (1080p)</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Banjar TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Banyumas TV (720p) [Not 24/7]</display-name>
   </channel>
   <channel id="417396">
     <display-name>JTV (480p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_jtv.png"/>
-  </channel>
-  <channel id="171924">
-    <display-name>Huma Betang TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="411952">
-    <display-name>Jawa Pos TV Bali (576p)</display-name>
-  </channel>
-  <channel id="411952">
-    <display-name>Jawa Pos TV Magelang (720p)</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Inspira TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="411952">
-    <display-name>Jawa Pos TV Semarang (720p)</display-name>
   </channel>
   <channel id="411927">
     <display-name>CNBC Indonesia (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png"/>
-  </channel>
-  <channel id="411997">
-    <display-name>Davika TV (480p)</display-name>
-  </channel>
-  <channel id="491643">
-    <display-name>BRTV (720p)</display-name>
   </channel>
   <channel id="188223">
     <display-name>DAAI TV</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_daaitv.png"/>
-  </channel>
-  <channel id="411952">
-    <display-name>Jawa Pos TV Jakarta (720p)</display-name>
-  </channel>
-  <channel id="171924">
-    <display-name>Padang TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="491701">
-    <display-name>Kilisuci TV</display-name>
-  </channel>
-  <channel id="417396">
-    <display-name>JTV Kediri</display-name>
-  </channel>
-  <channel id="172012">
-    <display-name>Balikpapan TV (720p)</display-name>
-  </channel>
-  <channel id="411932">
-    <display-name>Nusantara TV (1080p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_nusantaratv.png"/>
-  </channel>
-  <channel id="171966">
-    <display-name>Radar Tasikmalaya TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Bungo TV (480p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>RCTV (576p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Riau TV (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>STV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>MQTV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="411997">
-    <display-name>Kawanua TV (720p)</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>PKTV (480p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="411997">
-    <display-name>Elshinta TV</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>SMTV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Sampit TV (720p) [Not 24/7]</display-name>
   </channel>
   <channel id="412005">
     <display-name>U Channel (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_uchannel.png"/>
-  </channel>
-  <channel id="411915">
-    <display-name>Biznet Kids (1080p)</display-name>
-  </channel>
-  <channel id="411938">
-    <display-name>BeritaSatu English</display-name>
-  </channel>
-  <channel id="171991">
-    <display-name>RBTV Jogja (1080p)</display-name>
-  </channel>
-  <channel id="171966">
-    <display-name>Wesal TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="171861">
-    <display-name>Biznet Lifestyle (1080p)</display-name>
   </channel>
   <channel id="411950">
     <display-name>CNN Indonesia</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png"/>
   </channel>
   <channel id="417399">
     <display-name>Trans7 (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_trans7.png"/>
-  </channel>
-  <channel id="411927">
-    <display-name>CNBC Indonesia</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png"/>
   </channel>
   <channel id="171875">
     <display-name>MNC TV</display-name>
   </channel>
-  <channel id="491701">
-    <display-name>Music Information Channel (720p)</display-name>
-  </channel>
   <channel id="11695">
     <display-name>Trans TV (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_transtv.png"/>
-  </channel>
-  <channel id="411932">
-    <display-name>TV9 Nusantara (720p)</display-name>
-  </channel>
-  <channel id="11695">
-    <display-name>Trans TV CDG</display-name>
-  </channel>
-  <channel id="417399">
-    <display-name>Trans 7 CDG</display-name>
-  </channel>
-  <channel id="3809">
-    <display-name>RTV ᴸᴼᵂ</display-name>
   </channel>
   <channel id="411970">
     <display-name>Rodja TV (720p)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_rodjatv.png"/>
-  </channel>
-  <channel id="171875">
-    <display-name>MNCTV World ᴸᴼᵂ</display-name>
   </channel>
   <channel id="171905">
     <display-name>JakTV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_jaktv.png"/>
-  </channel>
-  <channel id="171847">
-    <display-name>Indosiar 2</display-name>
-  </channel>
-  <channel id="171847">
-    <display-name>INDOSIAR</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_indosiar.png"/>
-  </channel>
-  <channel id="11695">
-    <display-name>TransTV HD (TRANSCORP)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_transtv.png"/>
-  </channel>
-  <channel id="411950">
-    <display-name>CNN Indonesia (ChannelFeed)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png"/>
-  </channel>
-  <channel id="171933">
-    <display-name>Indonesiana TV</display-name>
-  </channel>
-  <channel id="417399">
-    <display-name>Trans7 HD (TRANSCORP)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_trans7.png"/>
   </channel>
   <channel id="3958">
     <display-name>Astro Awani</display-name>
   </channel>
   <channel id="172012">
     <display-name>ANTV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_antv.png"/>
   </channel>
   <channel id="171931">
     <display-name>iNews ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_inews.png"/>
-  </channel>
-  <channel id="417396">
-    <display-name>JTV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_jtv.png"/>
   </channel>
   <channel id="171891">
     <display-name>Kompas TV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_kompastv.png"/>
   </channel>
   <channel id="171951">
     <display-name>Net TV</display-name>
   </channel>
-  <channel id="411927">
-    <display-name>CNBC Indonesia (ChannelFeed)</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png"/>
-  </channel>
-  <channel id="411997">
-    <display-name>MAGNA TV (ChannelFeed)</display-name>
-  </channel>
   <channel id="171991">
     <display-name>BTV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_btv.png"/>
-  </channel>
-  <channel id="171854">
-    <display-name>SCTV</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_sctv.png"/>
   </channel>
   <channel id="171942">
     <display-name>Metro TV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_metrotv.png"/>
-  </channel>
-  <channel id="171991">
-    <display-name>HBTV</display-name>
   </channel>
   <channel id="411974">
     <display-name>Bali TV ᴸᴼᵂ</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_balitv.png"/>
   </channel>
   <channel id="411961">
     <display-name>Hanacaraka TV ᴸᴼᵂ</display-name>
@@ -250,27 +345,14 @@
   <channel id="480059">
     <display-name>JR.</display-name>
   </channel>
-  <channel id="411997">
-    <display-name>Tea TV (720p)</display-name>
-  </channel>
   <channel id="171870">
     <display-name>CGTN Documentary</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png"/>
-  </channel>
-  <channel id="172011">
-    <display-name>TVRI Jakarta</display-name>
   </channel>
   <channel id="370132">
     <display-name>Berita RTM</display-name>
   </channel>
   <channel id="370133">
     <display-name>Sukan RTM</display-name>
-  </channel>
-  <channel id="171951">
-    <display-name>Laos Planet TV (720p)</display-name>
-  </channel>
-  <channel id="171951">
-    <display-name>NET TV HD</display-name>
   </channel>
   <channel id="479618">
     <display-name>AURA</display-name>
@@ -290,50 +372,163 @@
   <channel id="478717">
     <display-name>SNAP</display-name>
   </channel>
-  <channel id="411914">
-    <display-name>Bein Sports 3 A 🟡</display-name>
-  </channel>
-  <channel id="171958">
-    <display-name>IMTV</display-name>
-  </channel>
-  <channel id="412005">
-    <display-name>BN Channel</display-name>
-  </channel>
-  <channel id="411956">
-    <display-name>Bein Sports 1 A 🟡</display-name>
-  </channel>
-  <channel id="3683">
-    <display-name>Champions TV 1</display-name>
-  </channel>
-  <channel id="411918">
-    <display-name>Bein Sports 2 A 🟡</display-name>
-  </channel>
-  <channel id="417396">
-    <display-name>PSJ TV</display-name>
-  </channel>
-  <channel id="171915">
-    <display-name>Spotv A 🟡</display-name>
-  </channel>
   <channel id="411956">
     <display-name>Bein Sports 1 🟥</display-name>
   </channel>
-  <channel id="3711">
-    <display-name>Champions TV 2</display-name>
-  </channel>
-  <channel id="411932">
-    <display-name>Antara TV</display-name>
-  </channel>
   <channel id="411949">
     <display-name>HORIZON SPORTS</display-name>
-    <icon src="https://images.indihometv.com/images/channels/image_ch_horizonsport.png"/>
   </channel>
-  <channel id="1072">
-    <display-name>Champions TV 3</display-name>
-  </channel>
-  <channel id="370131">
-    <display-name>Champions TV 6</display-name>
+  <channel id="172011">
+    <display-name>TVRI</display-name>
   </channel>
   <channel id="411997">
-    <display-name>NBA TV A 🟡</display-name>
+    <display-name>ATV</display-name>
+  </channel>
+  <channel id="417399">
+    <display-name>TRANS7</display-name>
+  </channel>
+  <channel id="11691">
+    <display-name>TV ONE</display-name>
+  </channel>
+  <channel id="171951">
+    <display-name>NET TV</display-name>
+  </channel>
+  <channel id="3179">
+    <display-name>CNN</display-name>
+  </channel>
+  <channel id="411932">
+    <display-name>ANTARA</display-name>
+  </channel>
+  <channel id="411952">
+    <display-name>jawa pos TV</display-name>
+  </channel>
+  <channel id="171966">
+    <display-name>TVN</display-name>
+  </channel>
+  <channel id="171906">
+    <display-name>IDX</display-name>
+  </channel>
+  <channel id="171905">
+    <display-name>JAK TV</display-name>
+  </channel>
+  <channel id="171865">
+    <display-name>ANIMAX</display-name>
+  </channel>
+  <channel id="902">
+    <display-name>TV9</display-name>
+  </channel>
+  <channel id="2226">
+    <display-name>ASTRO AEC</display-name>
+  </channel>
+  <channel id="3784">
+    <display-name>ASTRO RANIA</display-name>
+  </channel>
+  <channel id="2384">
+    <display-name>ASTRO RIA</display-name>
+  </channel>
+  <channel id="3770">
+    <display-name>ASTRO AURA</display-name>
+  </channel>
+  <channel id="3533">
+    <display-name>ASTRO CERIA</display-name>
+  </channel>
+  <channel id="3145">
+    <display-name>ASTRO OASIS</display-name>
+  </channel>
+  <channel id="412155">
+    <display-name>ASTRO WARNA</display-name>
+  </channel>
+  <channel id="3158">
+    <display-name>ASTRO PRIMA</display-name>
+  </channel>
+  <channel id="429564">
+    <display-name>PESONA HD</display-name>
+  </channel>
+  <channel id="411925">
+    <display-name>WARNER</display-name>
+  </channel>
+  <channel id="3200">
+    <display-name>CINEMAX</display-name>
+  </channel>
+  <channel id="4008">
+    <display-name>HBO FAMILY</display-name>
+  </channel>
+  <channel id="3994">
+    <display-name>HBO HITS</display-name>
+  </channel>
+  <channel id="369758">
+    <display-name>HBO SIGNATURE</display-name>
+  </channel>
+  <channel id="1425">
+    <display-name>HBO</display-name>
+  </channel>
+  <channel id="412104">
+    <display-name>CITRA ENTERTAINMENT</display-name>
+  </channel>
+  <channel id="171851">
+    <display-name>ZEE BIOSKOP</display-name>
+  </channel>
+  <channel id="4221">
+    <display-name>ZEE CINEMA</display-name>
+  </channel>
+  <channel id="171887">
+    <display-name>AXN HD</display-name>
+  </channel>
+  <channel id="443272">
+    <display-name>CINEMA WORLD</display-name>
+  </channel>
+  <channel id="171927">
+    <display-name>TAWAF TV</display-name>
+  </channel>
+  <channel id="411969">
+    <display-name>CITRA DANGDUT</display-name>
+  </channel>
+  <channel id="4019">
+    <display-name>BBC LIFESTYLE</display-name>
+  </channel>
+  <channel id="171929">
+    <display-name>FOX NEWS</display-name>
+  </channel>
+  <channel id="411984">
+    <display-name>FRANCE 24</display-name>
+  </channel>
+  <channel id="411962">
+    <display-name>DW</display-name>
+  </channel>
+  <channel id="171882">
+    <display-name>CGTN</display-name>
+  </channel>
+  <channel id="171949">
+    <display-name>BLOOMBERG</display-name>
+  </channel>
+  <channel id="171862">
+    <display-name>BBC WORLD NEWS</display-name>
+  </channel>
+  <channel id="370132">
+    <display-name>BERITA RTM</display-name>
+  </channel>
+  <channel id="171867">
+    <display-name>CNBC</display-name>
+  </channel>
+  <channel id="171893">
+    <display-name>EURO NEWS</display-name>
+  </channel>
+  <channel id="411953">
+    <display-name>CCTV4</display-name>
+  </channel>
+  <channel id="171970">
+    <display-name>ABC AUSTRALIA</display-name>
+  </channel>
+  <channel id="3858">
+    <display-name>Bloomberg TV</display-name>
+  </channel>
+  <channel id="171959">
+    <display-name>Channel News Asia</display-name>
+  </channel>
+  <channel id="411978">
+    <display-name>CNN International</display-name>
+  </channel>
+  <channel id="369757">
+    <display-name>Sky News</display-name>
   </channel>
 </tv>
