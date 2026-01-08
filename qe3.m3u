@@ -117,8 +117,6 @@ http://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 http://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 #EXTINF:-1 tvg-id="411914" tvg-logo="/config/data/qe3-logos/d2a4cfdcd4bb3d686528af3974307c19.png",Bein Sports 3 ??
 http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
-#EXTINF:-1 tvg-id="171867" tvg-logo="/config/data/qe3-logos/5bbc1c36511a3353be8a3a54d5c072b4.png",CNBC
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 #EXTINF:-1 tvg-id="171891" tvg-logo="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png",KOMPAS TV (D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1 tvg-id="411946" tvg-logo="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png",MOONBUG
@@ -131,14 +129,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="171949" tvg-logo="/config/data/qe3-logos/5f8d748ec495970122c5cbf65948bcfd.png",Bloomberg TV
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 tvg-id="369758" tvg-logo="/config/data/qe3-logos/461111170c349ae67e05943ebdb4e66b.png",HBO Signature
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-id="1425" tvg-logo="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="",KIDSTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-#EXTINF:-1 tvg-id="171865" tvg-logo="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png",ANIMAX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 #EXTINF:-1 tvg-id="171970" tvg-logo="/config/data/qe3-logos/8773972f7ca95b1a2ea941a802508fa7.png",ABC Australia
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
 #EXTINF:-1 tvg-id="190468" tvg-logo="",AlJAZEERA
