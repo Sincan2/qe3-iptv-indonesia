@@ -388,4 +388,8 @@
     <display-name>Bloomberg TV</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/bloomberg.png"/>
   </channel>
+  <channel id="171884">
+    <display-name>Love Nature</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_204.png"/>
+  </channel>
 </tv>
