@@ -175,10 +175,6 @@
   <channel id="">
     <display-name>TV 6</display-name>
   </channel>
-  <channel id="479619">
-    <display-name>APETITO</display-name>
-    <icon src="/config/data/qe3-logos/f171a88acc0985a990418f6892b508b2.png"/>
-  </channel>
   <channel id="3179">
     <display-name>CNN</display-name>
     <icon src="/config/data/qe3-logos/9069cb374a576c7db69fffe87d7f3c88.png"/>
