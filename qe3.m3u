@@ -123,29 +123,67 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="171959" tvg-logo="url",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="411927" tvg-logo="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="11691" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png",TV One
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="411959" tvg-logo="https://i.imgur.com/y7rmtec.png",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-id="417399" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="411945" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="411964" tvg-logo="",MUITV
 https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-id="171875" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="3711" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612105858041931_48.png",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="4160" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610054511299402_67.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="3683" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612105904271177_79.png",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="11695" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:-1 tvg-id="411970" tvg-logo="https://i.imgur.com/XwCeHlC.png",Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="412011" tvg-logo="https://i.imgur.com/dlsv1sl.png",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="172012" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 tvg-id="171942" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png",Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="411937" tvg-logo="https://i.imgur.com/pI76ufZ.png",Dunia Anak ??
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:-1 tvg-id="411920" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042826444709_50.png",TV5 Monde ??
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
+#EXTINF:-1 tvg-id="171946" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png",Al Quran Al Kareem ??
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
+#EXTINF:-1 tvg-id="171927" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV ??
+http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+#EXTINF:-1 tvg-id="171919" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.png",Sportstars ??
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-id="411956" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_309.png",Bein Sports 1 ??
+http://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
+#EXTINF:-1 tvg-id="411918" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_310.png",Bein Sports 2 ??
+http://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
+#EXTINF:-1 tvg-id="411914" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_311.png",Bein Sports 3 ??
+http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
+#EXTINF:-1 tvg-id="411967" tvg-logo="https://i.imgur.com/8gdyddg.png",Bioskop Indonesia ??
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#EXTINF:-1 tvg-id="443272" tvg-logo="https://i.imgur.com/D2qNVZ7.png",Cinemaworld ??
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+#EXTINF:-1 tvg-id="411983" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png",Studio Universal ??
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="411915" tvg-logo="https://i.imgur.com/iBcqT8L.png",NET
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTINF:-1 tvg-id="171931" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png",iNews (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTINF:-1 tvg-id="171867" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042608349944_23.png",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="171891" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV (D*)
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1 tvg-id="411946" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610054049620376_36.png",MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="479618" tvg-logo="https://epg.pw/media/images/epg/2025/11/15/20251115030013047540_44.jpg",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="480059" tvg-logo="https://epg.pw/media/images/epg/2025/11/18/20251118030024343346_60.jpg",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="478719" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="411933" tvg-logo="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png",ALLPLAY ENT
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-id="171855" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png",Al Jazeera English
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+#EXTINF:-1 tvg-id="902" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080728128542_54.png",TV9 HD
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="171861" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png",LIFE
+https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
