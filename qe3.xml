@@ -47,7 +47,7 @@
 <channel id="411952"><display-name>Jawa Pos TV (720p)</display-name></channel>
 <channel id="188223"><display-name>DAAI TV</display-name></channel>
 <channel id="412005"><display-name>U Channel (720p)</display-name></channel>
-<channel id="411950"><display-name>CNN Indonesia</display-name></channel>
+<channel id="411950"><display-name>CNN Indonesia</display-name><icon src="/config/data/qe3-logos/630fa0ff1e16fe4eb58b4a2b975ba8ae.png"/></channel>
 <channel id="411970"><display-name>Rodja TV (720p)</display-name></channel>
 <channel id="3958"><display-name>Astro Awani</display-name><icon src="/config/data/qe3-logos/6ae472f39219ec5b8e366d2836ebc3bf.png"/></channel>
 <channel id="171951"><display-name>Net TV</display-name></channel>
@@ -69,7 +69,6 @@
 <channel id="3683"><display-name>TV 1</display-name><icon src="/config/data/qe3-logos/c79cf6eb52603b25fe86986565e9c7f7.png"/></channel>
 <channel id="412011"><display-name>Rajawali TV</display-name></channel>
 <channel id="171942"><display-name>Metro TV</display-name><icon src="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png"/></channel>
-<channel id="411937"><display-name>Dunia Anak ??</display-name></channel>
 <channel id="411920"><display-name>TV5 Monde ??</display-name><icon src="/config/data/qe3-logos/97f3b5e4c25afec73af809cc7a6973e7.png"/></channel>
 <channel id="171946"><display-name>Al Quran Al Kareem ??</display-name><icon src="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png"/></channel>
 <channel id="171927"><display-name>Tawaf TV ??</display-name><icon src="/config/data/qe3-logos/6105269c819a553aae92a20dc08f1251.png"/></channel>
@@ -78,7 +77,6 @@
 <channel id="411918"><display-name>Bein Sports 2 ??</display-name><icon src="/config/data/qe3-logos/9ed52bdc6052c8bdef3fe13fcd29412c.png"/></channel>
 <channel id="411914"><display-name>Bein Sports 3 ??</display-name><icon src="/config/data/qe3-logos/d2a4cfdcd4bb3d686528af3974307c19.png"/></channel>
 <channel id="411967"><display-name>Bioskop Indonesia ??</display-name></channel>
-<channel id="411983"><display-name>Studio Universal ??</display-name><icon src="/config/data/qe3-logos/4dec019662dcdfe608fd2bbff4ba0b56.png"/></channel>
 <channel id="411915"><display-name>NET</display-name></channel>
 <channel id="171867"><display-name>CNBC</display-name><icon src="/config/data/qe3-logos/5bbc1c36511a3353be8a3a54d5c072b4.png"/></channel>
 <channel id="171891"><display-name>KOMPAS TV (D*)</display-name><icon src="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png"/></channel>
@@ -96,7 +94,6 @@
 <channel id="1425"><display-name>HBO</display-name><icon src="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png"/></channel>
 <channel id="3994"><display-name>HBO Hits</display-name><icon src="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png"/></channel>
 <channel id="4008"><display-name>HBO Family</display-name><icon src="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png"/></channel>
-<channel id="3200"><display-name>Cinemax</display-name><icon src="/config/data/qe3-logos/8701b13e1be15d1d3c96dbe37670ebad.png"/></channel>
 <channel id="171863"><display-name>nick jr.</display-name><icon src="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png"/></channel>
 <channel id="411930"><display-name>KIDSTV</display-name><icon src="/config/data/qe3-logos/a44e9b34013e7f7116524d829130d92a.png"/></channel>
 <channel id="171865"><display-name>ANIMAX</display-name><icon src="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png"/></channel>
