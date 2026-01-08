@@ -1,35 +1,4 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-name="RCTI" group-title="IPTV Indonesia",RCTI
-https://embed.rctiplus.com/live/rcti/inewsid
-
-#EXTINF:-1 tvg-name="MNCTV" group-title="IPTV Indonesia",MNCTV
-https://embed.rctiplus.com/live/mnctv/inewsid
-
-#EXTINF:-1 tvg-name="GTV" group-title="IPTV Indonesia",GTV
-https://embed.rctiplus.com/live/gtv/inewsid
-
-#EXTINF:-1 tvg-name="iNews" group-title="IPTV Indonesia",iNews
-https://embed.rctiplus.com/live/inews/inewsid
-
-#EXTINF:-1 tvg-name="SCTV" group-title="IPTV Indonesia",SCTV
-https://www.vidio.com/live/204-sctv
-
-#EXTINF:-1 tvg-name="Indosiar" group-title="IPTV Indonesia",Indosiar
-https://www.vidio.com/live/205-indosiar
-
-#EXTINF:-1 tvg-name="O Channel" group-title="IPTV Indonesia",O Channel
-https://www.vidio.com/live/874-o-channel
-
-#EXTINF:-1 tvg-name="Metro TV" group-title="IPTV Indonesia",Metro TV
-https://www.metrotvnews.com/live
-
-#EXTINF:-1 tvg-name="Kompas TV" group-title="IPTV Indonesia",Kompas TV
-https://www.kompas.tv/live
-
-#EXTINF:-1 tvg-name="tvOne" group-title="IPTV Indonesia",tvOne
-https://www.tvonenews.com/live
-
 #EXTINF:-1 tvg-id="171892" tvg-logo="/config/data/qe3-logos/787f0137468043287358bc28687a62f3.png",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="171875" tvg-logo="/config/data/qe3-logos/7964dab5c223b50867e8d10b95a31774.png",MNCTV
@@ -126,7 +95,7 @@ http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 tvg-id="412005" tvg-logo="",U Channel (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
-#EXTINF:-1 tvg-id="411950" tvg-logo="",CNN Indonesia
+#EXTINF:-1 tvg-id="411950" tvg-logo="/config/data/qe3-logos/630fa0ff1e16fe4eb58b4a2b975ba8ae.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="411970" tvg-logo="",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
@@ -170,8 +139,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="171942" tvg-logo="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-id="411937" tvg-logo="",Dunia Anak ??
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 #EXTINF:-1 tvg-id="411920" tvg-logo="/config/data/qe3-logos/97f3b5e4c25afec73af809cc7a6973e7.png",TV5 Monde ??
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
 #EXTINF:-1 tvg-id="171946" tvg-logo="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png",Al Quran Al Kareem ??
@@ -188,8 +155,6 @@ http://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 #EXTINF:-1 tvg-id="411967" tvg-logo="",Bioskop Indonesia ??
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-#EXTINF:-1 tvg-id="411983" tvg-logo="/config/data/qe3-logos/4dec019662dcdfe608fd2bbff4ba0b56.png",Studio Universal ??
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 #EXTINF:-1 tvg-id="411915" tvg-logo="",NET
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #EXTINF:-1 tvg-id="171867" tvg-logo="/config/data/qe3-logos/5bbc1c36511a3353be8a3a54d5c072b4.png",CNBC
@@ -224,8 +189,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #EXTINF:-1 tvg-id="4008" tvg-logo="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png",HBO Family
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-id="3200" tvg-logo="/config/data/qe3-logos/8701b13e1be15d1d3c96dbe37670ebad.png",Cinemax
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #EXTINF:-1 tvg-id="171863" tvg-logo="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png",nick jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 #EXTINF:-1 tvg-id="411930" tvg-logo="/config/data/qe3-logos/a44e9b34013e7f7116524d829130d92a.png",KIDSTV
