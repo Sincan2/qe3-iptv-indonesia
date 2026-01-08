@@ -49,10 +49,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 #EXTINF:-1 tvg-id="171849" tvg-logo="/config/data/qe3-logos/d8233ee3ebc2b3943008a6429b93eaa8.png",CBEEBIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-#EXTINF:-1 tvg-id="411990" tvg-logo="",MY KIDZ
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
-#EXTINF:-1 tvg-id="412010" tvg-logo="",CARTOONITO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 #EXTINF:-1 tvg-id="171899" tvg-logo="/config/data/qe3-logos/c3342301d57dd4980d12431b72cbd446.png",DREAMWORKS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 #EXTINF:-1 tvg-id="411976" tvg-logo="",FUN PLANET
@@ -75,8 +71,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 #EXTINF:-1 tvg-id="171916" tvg-logo="/config/data/qe3-logos/e0914e7b5c3fd17c291e6fd377e14c26.png",CELEBRITIES TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
-#EXTINF:-1 tvg-id="171983" tvg-logo="/config/data/qe3-logos/34310f0344e0583a4d940b088021375c.png",NHK WORLD
-http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/97.0.4692.99%20Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 tvg-id="171915" tvg-logo="/config/data/qe3-logos/84ce9e1bc04ebb3f269182383e1aa99d.png",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 tvg-id="171878" tvg-logo="/config/data/qe3-logos/1ee1f77a530311de7cd401ec58721236.png",SPOTV2
@@ -95,24 +89,20 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="411970" tvg-logo="",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="3958" tvg-logo="/config/data/qe3-logos/6ae472f39219ec5b8e366d2836ebc3bf.png",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="171951" tvg-logo="",Net TV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="479619" tvg-logo="/config/data/qe3-logos/f171a88acc0985a990418f6892b508b2.png",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="3179" tvg-logo="/config/data/qe3-logos/9069cb374a576c7db69fffe87d7f3c88.png",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="171959" tvg-logo="",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="411959" tvg-logo="",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="411945" tvg-logo="",TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",MUITV
 https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-id="4160" tvg-logo="/config/data/qe3-logos/9db4fec71b7ba716709a0af778436f6f.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="412011" tvg-logo="",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="171942" tvg-logo="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png",Metro TV
@@ -133,12 +123,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1 tvg-id="411946" tvg-logo="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png",MOONBUG
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
-#EXTINF:-1 tvg-id="480059" tvg-logo="/config/data/qe3-logos/826077ba51f12219dc8975cf4e352957.png",JR.
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="478719" tvg-logo="/config/data/qe3-logos/5d39e1c3d9ea7b02fb27a6733899420e.png",ROLL
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-id="171855" tvg-logo="/config/data/qe3-logos/ef1b26a953ea045068dc15c9701acc90.png",Al Jazeera English
-http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
 #EXTINF:-1 tvg-id="902" tvg-logo="/config/data/qe3-logos/0b61f388e84747e98ae0770162b2bba5.png",TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="411978" tvg-logo="",CNN International
@@ -147,22 +133,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 tvg-id="369758" tvg-logo="/config/data/qe3-logos/461111170c349ae67e05943ebdb4e66b.png",HBO Signature
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-id="3994" tvg-logo="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png",HBO Hits
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-id="4008" tvg-logo="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png",HBO Family
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-id="171863" tvg-logo="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png",nick jr.
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#EXTINF:-1 tvg-id="1425" tvg-logo="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png",HBO
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="",KIDSTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 #EXTINF:-1 tvg-id="171865" tvg-logo="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png",ANIMAX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",BALITV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
-#EXTINF:-1 tvg-id="411963" tvg-logo="/config/data/qe3-logos/5553c430385f54cf4311d407a73316f5.png",FOOD TRAVEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
-#EXTINF:-1 tvg-id="171877" tvg-logo="/config/data/qe3-logos/286cc310fd281af828250d7e473fc70a.png",KIX
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 tvg-id="171970" tvg-logo="/config/data/qe3-logos/8773972f7ca95b1a2ea941a802508fa7.png",ABC Australia
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
 #EXTINF:-1 tvg-id="190468" tvg-logo="",AlJAZEERA
