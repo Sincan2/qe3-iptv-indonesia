@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="417396">
-    <display-name>JTV (480p)</display-name>
+  <channel id="171924">
+    <display-name>GTV</display-name>
+    <icon src="/config/data/qe3-logos/a54aad003a2f4d850b39ebc13309365d.png"/>
+  </channel>
+  <channel id="411917">
+    <display-name>SCTV</display-name>
+    <icon src="/config/data/qe3-logos/f8994d26bde49d450057f19dbc8eb956.png"/>
+  </channel>
+  <channel id="171847">
+    <display-name>INDOSIAR</display-name>
+    <icon src="/config/data/qe3-logos/7c7b0ed1f7a6d7dfadc2c048bdc9c7f7.png"/>
   </channel>
   <channel id="11695">
     <display-name>Trans TV (720p)</display-name>
     <icon src="/config/data/qe3-logos/cafc5b02ecd64a698edf4f19e6331cfb.png"/>
   </channel>
-  <channel id="171924">
-    <display-name>GTV</display-name>
-    <icon src="/config/data/qe3-logos/a54aad003a2f4d850b39ebc13309365d.png"/>
+  <channel id="417399">
+    <display-name>Trans7 (720p)</display-name>
+    <icon src="/config/data/qe3-logos/2c0b7d1fa6cf84abba0d0d5546edaa71.png"/>
   </channel>
   <channel id="MDTV.id">
     <display-name>MDTV</display-name>
@@ -19,32 +28,31 @@
     <display-name>TVONE</display-name>
     <icon src="/config/data/qe3-logos/0d4bcc7d3948e6d281ae3c69c767a708.png"/>
   </channel>
-  <channel id="171991">
-    <display-name>BTV</display-name>
-    <icon src="/config/data/qe3-logos/ae492ea8af8fa5150e801f21b71ec789.png"/>
-  </channel>
-  <channel id="171853">
-    <display-name>GALAXY PREMIUM</display-name>
-    <icon src="/config/data/qe3-logos/f71770b33aec6279dfe8b229b3ac4ba4.png"/>
-  </channel>
   <channel id="411927">
     <display-name>CNBC Indonesia (720p)</display-name>
   </channel>
-  <channel id="417399">
-    <display-name>Trans7 (720p)</display-name>
-    <icon src="/config/data/qe3-logos/2c0b7d1fa6cf84abba0d0d5546edaa71.png"/>
+  <channel id="171905">
+    <display-name>JAKTV</display-name>
+    <icon src="/config/data/qe3-logos/942ea085c6e0cb57b1ac5f21a5750933.png"/>
+  </channel>
+  <channel id="417396">
+    <display-name>JTV (480p)</display-name>
+  </channel>
+  <channel id="171991">
+    <display-name>BTV</display-name>
+    <icon src="/config/data/qe3-logos/ae492ea8af8fa5150e801f21b71ec789.png"/>
   </channel>
   <channel id="171880">
     <display-name>SINDO NEWS TV</display-name>
     <icon src="/config/data/qe3-logos/2abc1d85e60e9627e2d9ab863b937965.png"/>
   </channel>
-  <channel id="171847">
-    <display-name>INDOSIAR</display-name>
-    <icon src="/config/data/qe3-logos/7c7b0ed1f7a6d7dfadc2c048bdc9c7f7.png"/>
+  <channel id="171853">
+    <display-name>GALAXY PREMIUM</display-name>
+    <icon src="/config/data/qe3-logos/f71770b33aec6279dfe8b229b3ac4ba4.png"/>
   </channel>
-  <channel id="411917">
-    <display-name>SCTV</display-name>
-    <icon src="/config/data/qe3-logos/f8994d26bde49d450057f19dbc8eb956.png"/>
+  <channel id="171982">
+    <display-name>GALAXY</display-name>
+    <icon src="/config/data/qe3-logos/ee2d480f3c8e517f5b07d2bfce13c02d.png"/>
   </channel>
   <channel id="171887">
     <display-name>AXN</display-name>
@@ -53,10 +61,6 @@
   <channel id="411934">
     <display-name>ORIGINALS</display-name>
     <icon src="/config/data/qe3-logos/9a310c948201ad74d67af3852ee7d2cf.png"/>
-  </channel>
-  <channel id="171905">
-    <display-name>JAKTV</display-name>
-    <icon src="/config/data/qe3-logos/942ea085c6e0cb57b1ac5f21a5750933.png"/>
   </channel>
   <channel id="411923">
     <display-name>CINEEDGE</display-name>
@@ -83,70 +87,88 @@
   <channel id="443470">
     <display-name>Z BIOSKOP</display-name>
   </channel>
+  <channel id="171930">
+    <display-name>NICKELODEON</display-name>
+    <icon src="/config/data/qe3-logos/6a952a21b7693e7b8aa996b172efc5d5.png"/>
+  </channel>
   <channel id="171849">
     <display-name>CBEEBIES</display-name>
     <icon src="/config/data/qe3-logos/d8233ee3ebc2b3943008a6429b93eaa8.png"/>
+  </channel>
+  <channel id="411990">
+    <display-name>MY KIDZ</display-name>
+  </channel>
+  <channel id="412010">
+    <display-name>CARTOONITO</display-name>
   </channel>
   <channel id="171899">
     <display-name>DREAMWORKS</display-name>
     <icon src="/config/data/qe3-logos/c3342301d57dd4980d12431b72cbd446.png"/>
   </channel>
-  <channel id="171981">
-    <display-name>GLOBAL TREKKER</display-name>
-    <icon src="/config/data/qe3-logos/afed9164085e946d3dabf3fe43857ba0.png"/>
-  </channel>
-  <channel id="171930">
-    <display-name>NICKELODEON</display-name>
-    <icon src="/config/data/qe3-logos/6a952a21b7693e7b8aa996b172efc5d5.png"/>
-  </channel>
-  <channel id="171884">
-    <display-name>LOVE NATURE 4K</display-name>
-    <icon src="/config/data/qe3-logos/939cca9e4007ee7b1efad415e0a01d5b.png"/>
+  <channel id="411976">
+    <display-name>FUN PLANET</display-name>
   </channel>
   <channel id="171962">
     <display-name>ZOOMOO</display-name>
     <icon src="/config/data/qe3-logos/da55da4b17a20577a48930f33e6f3c89.png"/>
   </channel>
+  <channel id="171922">
+    <display-name>CRIME INVESTIGATION</display-name>
+    <icon src="/config/data/qe3-logos/a6d2c83a962cce9dd9762b82be31378d.png"/>
+  </channel>
+  <channel id="171981">
+    <display-name>GLOBAL TREKKER</display-name>
+    <icon src="/config/data/qe3-logos/afed9164085e946d3dabf3fe43857ba0.png"/>
+  </channel>
+  <channel id="171884">
+    <display-name>LOVE NATURE 4K</display-name>
+    <icon src="/config/data/qe3-logos/939cca9e4007ee7b1efad415e0a01d5b.png"/>
+  </channel>
   <channel id="171870">
     <display-name>CGTN DOCUMENTARY</display-name>
     <icon src="/config/data/qe3-logos/6dc00112b91d0b4575882b8676922d4a.png"/>
+  </channel>
+  <channel id="171940">
+    <display-name>OUTDOOR CHANNEL</display-name>
+    <icon src="/config/data/qe3-logos/5b0a57a90d97d8e08b5ca33c2fd67c19.png"/>
   </channel>
   <channel id="171956">
     <display-name>LIFETIME</display-name>
     <icon src="/config/data/qe3-logos/3d284823e4851bf38f70ca8b2fab0d05.png"/>
   </channel>
-  <channel id="171982">
-    <display-name>GALAXY</display-name>
-    <icon src="/config/data/qe3-logos/ee2d480f3c8e517f5b07d2bfce13c02d.png"/>
-  </channel>
   <channel id="411961">
     <display-name>HANACARAKA TV</display-name>
     <icon src="/config/data/qe3-logos/3a3821810e19323b5809d48d32a8fd5f.png"/>
   </channel>
-  <channel id="412010">
-    <display-name>CARTOONITO</display-name>
+  <channel id="171916">
+    <display-name>CELEBRITIES TV</display-name>
+    <icon src="/config/data/qe3-logos/e0914e7b5c3fd17c291e6fd377e14c26.png"/>
   </channel>
-  <channel id="411990">
-    <display-name>MY KIDZ</display-name>
-  </channel>
-  <channel id="171878">
-    <display-name>SPOTV2</display-name>
-    <icon src="/config/data/qe3-logos/1ee1f77a530311de7cd401ec58721236.png"/>
+  <channel id="171983">
+    <display-name>NHK WORLD</display-name>
+    <icon src="/config/data/qe3-logos/34310f0344e0583a4d940b088021375c.png"/>
   </channel>
   <channel id="171915">
     <display-name>SPOTV</display-name>
     <icon src="/config/data/qe3-logos/84ce9e1bc04ebb3f269182383e1aa99d.png"/>
   </channel>
-  <channel id="411952">
-    <display-name>Jawa Pos TV (720p)</display-name>
+  <channel id="171878">
+    <display-name>SPOTV2</display-name>
+    <icon src="/config/data/qe3-logos/1ee1f77a530311de7cd401ec58721236.png"/>
   </channel>
   <channel id="171985">
     <display-name>SPORTSTARS 4</display-name>
     <icon src="/config/data/qe3-logos/bb16e7225c821ab6e6f09a5e8dcf561d.png"/>
   </channel>
-  <channel id="171983">
-    <display-name>NHK WORLD</display-name>
-    <icon src="/config/data/qe3-logos/34310f0344e0583a4d940b088021375c.png"/>
+  <channel id="171902">
+    <display-name>FIGHT SPORTS</display-name>
+    <icon src="/config/data/qe3-logos/8fc48bac3c286692cbf40f33cb80654e.png"/>
+  </channel>
+  <channel id="411952">
+    <display-name>Jawa Pos TV (720p)</display-name>
+  </channel>
+  <channel id="188223">
+    <display-name>DAAI TV</display-name>
   </channel>
   <channel id="">
     <display-name>U Channel (720p)</display-name>
@@ -154,30 +176,12 @@
   <channel id="411950">
     <display-name>CNN Indonesia</display-name>
   </channel>
-  <channel id="171902">
-    <display-name>FIGHT SPORTS</display-name>
-    <icon src="/config/data/qe3-logos/8fc48bac3c286692cbf40f33cb80654e.png"/>
-  </channel>
-  <channel id="411976">
-    <display-name>FUN PLANET</display-name>
-  </channel>
-  <channel id="188223">
-    <display-name>DAAI TV</display-name>
-  </channel>
-  <channel id="171940">
-    <display-name>OUTDOOR CHANNEL</display-name>
-    <icon src="/config/data/qe3-logos/5b0a57a90d97d8e08b5ca33c2fd67c19.png"/>
-  </channel>
-  <channel id="171922">
-    <display-name>CRIME INVESTIGATION</display-name>
-    <icon src="/config/data/qe3-logos/a6d2c83a962cce9dd9762b82be31378d.png"/>
-  </channel>
-  <channel id="171916">
-    <display-name>CELEBRITIES TV</display-name>
-    <icon src="/config/data/qe3-logos/e0914e7b5c3fd17c291e6fd377e14c26.png"/>
-  </channel>
   <channel id="411970">
     <display-name>Rodja TV (720p)</display-name>
+  </channel>
+  <channel id="3958">
+    <display-name>Astro Awani</display-name>
+    <icon src="/config/data/qe3-logos/6ae472f39219ec5b8e366d2836ebc3bf.png"/>
   </channel>
   <channel id="171951">
     <display-name>Net TV</display-name>
@@ -186,16 +190,11 @@
     <display-name>CNN</display-name>
     <icon src="/config/data/qe3-logos/9069cb374a576c7db69fffe87d7f3c88.png"/>
   </channel>
-  <channel id="3958">
-    <display-name>Astro Awani</display-name>
-    <icon src="/config/data/qe3-logos/6ae472f39219ec5b8e366d2836ebc3bf.png"/>
+  <channel id="171959">
+    <display-name>Channel News Asia</display-name>
   </channel>
   <channel id="411959">
     <display-name>MQTV</display-name>
-  </channel>
-  <channel id="370132">
-    <display-name>Berita RTM</display-name>
-    <icon src="/config/data/qe3-logos/81fb12a1f8a422f0e13548c2964b20e5.png"/>
   </channel>
   <channel id="411945">
     <display-name>TV9 NU</display-name>
@@ -203,13 +202,27 @@
   <channel id="">
     <display-name>MUITV</display-name>
   </channel>
-  <channel id="171927">
-    <display-name>Tawaf TV ??</display-name>
-    <icon src="/config/data/qe3-logos/6105269c819a553aae92a20dc08f1251.png"/>
+  <channel id="4160">
+    <display-name>TV Okey</display-name>
+    <icon src="/config/data/qe3-logos/9db4fec71b7ba716709a0af778436f6f.png"/>
+  </channel>
+  <channel id="">
+    <display-name>TV 1</display-name>
+  </channel>
+  <channel id="412011">
+    <display-name>Rajawali TV</display-name>
   </channel>
   <channel id="171942">
     <display-name>Metro TV</display-name>
     <icon src="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png"/>
+  </channel>
+  <channel id="171946">
+    <display-name>Al Quran Al Kareem ??</display-name>
+    <icon src="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png"/>
+  </channel>
+  <channel id="171927">
+    <display-name>Tawaf TV ??</display-name>
+    <icon src="/config/data/qe3-logos/6105269c819a553aae92a20dc08f1251.png"/>
   </channel>
   <channel id="411956">
     <display-name>Bein Sports 1 ??</display-name>
@@ -219,31 +232,29 @@
     <display-name>Bein Sports 2 ??</display-name>
     <icon src="/config/data/qe3-logos/9ed52bdc6052c8bdef3fe13fcd29412c.png"/>
   </channel>
-  <channel id="171891">
-    <display-name>KOMPAS TV (D*)</display-name>
-    <icon src="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png"/>
-  </channel>
-  <channel id="171946">
-    <display-name>Al Quran Al Kareem ??</display-name>
-    <icon src="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png"/>
-  </channel>
   <channel id="411914">
     <display-name>Bein Sports 3 ??</display-name>
     <icon src="/config/data/qe3-logos/d2a4cfdcd4bb3d686528af3974307c19.png"/>
-  </channel>
-  <channel id="411946">
-    <display-name>MOONBUG</display-name>
-    <icon src="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png"/>
   </channel>
   <channel id="171867">
     <display-name>CNBC</display-name>
     <icon src="/config/data/qe3-logos/5bbc1c36511a3353be8a3a54d5c072b4.png"/>
   </channel>
-  <channel id="412011">
-    <display-name>Rajawali TV</display-name>
+  <channel id="171891">
+    <display-name>KOMPAS TV (D*)</display-name>
+    <icon src="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png"/>
   </channel>
-  <channel id="411978">
-    <display-name>CNN International</display-name>
+  <channel id="411946">
+    <display-name>MOONBUG</display-name>
+    <icon src="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png"/>
+  </channel>
+  <channel id="480059">
+    <display-name>JR.</display-name>
+    <icon src="/config/data/qe3-logos/826077ba51f12219dc8975cf4e352957.png"/>
+  </channel>
+  <channel id="478719">
+    <display-name>ROLL</display-name>
+    <icon src="/config/data/qe3-logos/5d39e1c3d9ea7b02fb27a6733899420e.png"/>
   </channel>
   <channel id="171855">
     <display-name>Al Jazeera English</display-name>
@@ -253,40 +264,57 @@
     <display-name>TV9 HD</display-name>
     <icon src="/config/data/qe3-logos/0b61f388e84747e98ae0770162b2bba5.png"/>
   </channel>
-  <channel id="478719">
-    <display-name>ROLL</display-name>
-    <icon src="/config/data/qe3-logos/5d39e1c3d9ea7b02fb27a6733899420e.png"/>
-  </channel>
-  <channel id="1425">
-    <display-name>HBO</display-name>
-    <icon src="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png"/>
-  </channel>
-  <channel id="369758">
-    <display-name>HBO Signature</display-name>
-    <icon src="/config/data/qe3-logos/461111170c349ae67e05943ebdb4e66b.png"/>
+  <channel id="411978">
+    <display-name>CNN International</display-name>
   </channel>
   <channel id="171949">
     <display-name>Bloomberg TV</display-name>
     <icon src="/config/data/qe3-logos/5f8d748ec495970122c5cbf65948bcfd.png"/>
   </channel>
+  <channel id="369758">
+    <display-name>HBO Signature</display-name>
+    <icon src="/config/data/qe3-logos/461111170c349ae67e05943ebdb4e66b.png"/>
+  </channel>
+  <channel id="3994">
+    <display-name>HBO Hits</display-name>
+    <icon src="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png"/>
+  </channel>
+  <channel id="4008">
+    <display-name>HBO Family</display-name>
+    <icon src="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png"/>
+  </channel>
+  <channel id="171863">
+    <display-name>nick jr.</display-name>
+    <icon src="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png"/>
+  </channel>
   <channel id="">
     <display-name>KIDSTV</display-name>
+  </channel>
+  <channel id="171865">
+    <display-name>ANIMAX</display-name>
+    <icon src="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png"/>
+  </channel>
+  <channel id="">
+    <display-name>BALITV</display-name>
   </channel>
   <channel id="411963">
     <display-name>FOOD TRAVEL</display-name>
     <icon src="/config/data/qe3-logos/5553c430385f54cf4311d407a73316f5.png"/>
   </channel>
-  <channel id="171970">
-    <display-name>ABC Australia</display-name>
-    <icon src="/config/data/qe3-logos/8773972f7ca95b1a2ea941a802508fa7.png"/>
-  </channel>
   <channel id="171877">
     <display-name>KIX</display-name>
     <icon src="/config/data/qe3-logos/286cc310fd281af828250d7e473fc70a.png"/>
   </channel>
-  <channel id="3994">
-    <display-name>HBO Hits</display-name>
-    <icon src="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png"/>
+  <channel id="171970">
+    <display-name>ABC Australia</display-name>
+    <icon src="/config/data/qe3-logos/8773972f7ca95b1a2ea941a802508fa7.png"/>
+  </channel>
+  <channel id="190468">
+    <display-name>AlJAZEERA</display-name>
+  </channel>
+  <channel id="411984">
+    <display-name>FRANCE24</display-name>
+    <icon src="/config/data/qe3-logos/bd44fbe89494d3e258e69702a0e129b6.png"/>
   </channel>
   <channel id="3329">
     <display-name>BBC NEWS</display-name>
@@ -296,10 +324,6 @@
     <display-name>FOX NEWS channel</display-name>
     <icon src="/config/data/qe3-logos/59077568e65808eca2e6ca9472c63872.png"/>
   </channel>
-  <channel id="171865">
-    <display-name>ANIMAX</display-name>
-    <icon src="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png"/>
-  </channel>
   <channel id="190511">
     <display-name>NHKWORLD JAPAN</display-name>
     <icon src="/config/data/qe3-logos/0595f1d8fb181b4046e14720f64fa7e9.png"/>
@@ -307,20 +331,9 @@
   <channel id="411962">
     <display-name>DW</display-name>
   </channel>
-  <channel id="411984">
-    <display-name>FRANCE24</display-name>
-    <icon src="/config/data/qe3-logos/bd44fbe89494d3e258e69702a0e129b6.png"/>
-  </channel>
   <channel id="171882">
     <display-name>CGTN</display-name>
     <icon src="/config/data/qe3-logos/dcf42136957d905885badd5b238076dd.png"/>
-  </channel>
-  <channel id="190468">
-    <display-name>AlJAZEERA</display-name>
-  </channel>
-  <channel id="171863">
-    <display-name>nick jr.</display-name>
-    <icon src="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png"/>
   </channel>
   <channel id="171893">
     <display-name>euronews</display-name>
@@ -341,23 +354,23 @@
     <display-name>ROCK entertainment</display-name>
     <icon src="/config/data/qe3-logos/b5f075f04e854177413a140017f799d9.png"/>
   </channel>
-  <channel id="171990">
-    <display-name>HITS</display-name>
-    <icon src="/config/data/qe3-logos/1f0a10abfdffb4aa8a0aa3fae7a76db3.png"/>
-  </channel>
-  <channel id="Superrix.id">
-    <display-name>superrix</display-name>
-    <icon src="/config/data/qe3-logos/d5de7e9764d7accb01d692e41a611f76.png"/>
-  </channel>
-  <channel id="412016">
-    <display-name>Al-Qur'an Kareem</display-name>
+  <channel id="171864">
+    <display-name>thrill</display-name>
+    <icon src="/config/data/qe3-logos/f04de431901283a4a98e985488fc12bd.png"/>
   </channel>
   <channel id="171999">
     <display-name>CELESTIAL MOVIES</display-name>
     <icon src="/config/data/qe3-logos/fbba832e005d2b37944f6622537b9d83.png"/>
   </channel>
-  <channel id="171864">
-    <display-name>thrill</display-name>
-    <icon src="/config/data/qe3-logos/f04de431901283a4a98e985488fc12bd.png"/>
+  <channel id="171990">
+    <display-name>HITS</display-name>
+    <icon src="/config/data/qe3-logos/1f0a10abfdffb4aa8a0aa3fae7a76db3.png"/>
+  </channel>
+  <channel id="412016">
+    <display-name>Al-Qur'an Kareem</display-name>
+  </channel>
+  <channel id="Superrix.id">
+    <display-name>superrix</display-name>
+    <icon src="/config/data/qe3-logos/d5de7e9764d7accb01d692e41a611f76.png"/>
   </channel>
 </tv>
