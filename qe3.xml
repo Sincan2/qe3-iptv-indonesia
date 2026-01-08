@@ -219,10 +219,6 @@
     <display-name>Bein Sports 3 ??</display-name>
     <icon src="/config/data/qe3-logos/d2a4cfdcd4bb3d686528af3974307c19.png"/>
   </channel>
-  <channel id="171867">
-    <display-name>CNBC</display-name>
-    <icon src="/config/data/qe3-logos/5bbc1c36511a3353be8a3a54d5c072b4.png"/>
-  </channel>
   <channel id="171891">
     <display-name>KOMPAS TV (D*)</display-name>
     <icon src="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png"/>
@@ -246,20 +242,8 @@
     <display-name>Bloomberg TV</display-name>
     <icon src="/config/data/qe3-logos/5f8d748ec495970122c5cbf65948bcfd.png"/>
   </channel>
-  <channel id="369758">
-    <display-name>HBO Signature</display-name>
-    <icon src="/config/data/qe3-logos/461111170c349ae67e05943ebdb4e66b.png"/>
-  </channel>
-  <channel id="1425">
-    <display-name>HBO</display-name>
-    <icon src="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png"/>
-  </channel>
   <channel id="">
     <display-name>KIDSTV</display-name>
-  </channel>
-  <channel id="171865">
-    <display-name>ANIMAX</display-name>
-    <icon src="/config/data/qe3-logos/f3a793ee70f2f72389e5826a6cf17e99.png"/>
   </channel>
   <channel id="171970">
     <display-name>ABC Australia</display-name>
