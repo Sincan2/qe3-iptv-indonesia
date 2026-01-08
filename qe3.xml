@@ -372,4 +372,20 @@
     <display-name>LIFE</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_91.png"/>
   </channel>
+  <channel id="172011">
+    <display-name>TVRI 🇮🇩</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_118.jpg"/>
+  </channel>
+  <channel id="411978">
+    <display-name>CNN International</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png"/>
+  </channel>
+  <channel id="2852">
+    <display-name>CNA</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_330.png"/>
+  </channel>
+  <channel id="3858">
+    <display-name>Bloomberg TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/bloomberg.png"/>
+  </channel>
 </tv>
