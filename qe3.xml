@@ -172,7 +172,6 @@
   </channel>
   <channel id="188223">
     <display-name>DAAI TV</display-name>
-    <icon src="/config/data/qe3-logos/dd394dd26c6126a722c2995e2e9c17d9.png"/>
   </channel>
   <channel id="412005">
     <display-name>U Channel (720p)</display-name>
@@ -182,6 +181,7 @@
   </channel>
   <channel id="411970">
     <display-name>Rodja TV (720p)</display-name>
+    <icon src="/config/data/qe3-logos/633e789ed88bb5181c7a77c5e859f816.png"/>
   </channel>
   <channel id="3958">
     <display-name>Astro Awani</display-name>
@@ -201,13 +201,13 @@
   </channel>
   <channel id="370133">
     <display-name>Sukan RTM</display-name>
+    <icon src="/config/data/qe3-logos/69cf7f436895397d7720ab611ecd8c5e.png"/>
   </channel>
   <channel id="479449">
     <display-name>FITRAH</display-name>
   </channel>
   <channel id="478718">
     <display-name>LEAD</display-name>
-    <icon src="/config/data/qe3-logos/f293f67fd7db38e71ea949ea4bd41a04.png"/>
   </channel>
   <channel id="479619">
     <display-name>APETITO</display-name>
@@ -282,6 +282,7 @@
   </channel>
   <channel id="411946">
     <display-name>MOONBUG</display-name>
+    <icon src="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png"/>
   </channel>
   <channel id="479618">
     <display-name>AURA</display-name>
@@ -293,6 +294,7 @@
   </channel>
   <channel id="478719">
     <display-name>ROLL</display-name>
+    <icon src="/config/data/qe3-logos/5d39e1c3d9ea7b02fb27a6733899420e.png"/>
   </channel>
   <channel id="171855">
     <display-name>Al Jazeera English</display-name>
@@ -324,10 +326,10 @@
   </channel>
   <channel id="3994">
     <display-name>HBO Hits</display-name>
+    <icon src="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png"/>
   </channel>
   <channel id="4008">
     <display-name>HBO Family</display-name>
-    <icon src="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png"/>
   </channel>
   <channel id="171863">
     <display-name>nick jr.</display-name>
