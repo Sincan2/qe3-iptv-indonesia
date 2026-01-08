@@ -245,21 +245,9 @@
     <display-name>Channel News Asia</display-name>
     <icon src="url"/>
   </channel>
-  <channel id="411927">
-    <display-name>CNBC Indonesia</display-name>
-    <icon src="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png"/>
-  </channel>
-  <channel id="11691">
-    <display-name>TV One</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/tvone.png"/>
-  </channel>
   <channel id="411959">
     <display-name>MQTV</display-name>
     <icon src="https://i.imgur.com/y7rmtec.png"/>
-  </channel>
-  <channel id="417399">
-    <display-name>Trans7</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png"/>
   </channel>
   <channel id="411945">
     <display-name>TV9 NU</display-name>
@@ -267,10 +255,6 @@
   </channel>
   <channel id="411964">
     <display-name>MUITV</display-name>
-  </channel>
-  <channel id="171875">
-    <display-name>MNC TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png"/>
   </channel>
   <channel id="3711">
     <display-name>TV 2</display-name>
@@ -284,16 +268,108 @@
     <display-name>TV 1</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612105904271177_79.png"/>
   </channel>
-  <channel id="11695">
-    <display-name>Trans TV</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_87.png"/>
-  </channel>
-  <channel id="411970">
-    <display-name>Rodja TV</display-name>
-    <icon src="https://i.imgur.com/XwCeHlC.png"/>
-  </channel>
   <channel id="412011">
     <display-name>Rajawali TV</display-name>
     <icon src="https://i.imgur.com/dlsv1sl.png"/>
+  </channel>
+  <channel id="172012">
+    <display-name>ANTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_115.png"/>
+  </channel>
+  <channel id="171942">
+    <display-name>Metro TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_107.png"/>
+  </channel>
+  <channel id="411937">
+    <display-name>Dunia Anak ??</display-name>
+    <icon src="https://i.imgur.com/pI76ufZ.png"/>
+  </channel>
+  <channel id="411920">
+    <display-name>TV5 Monde ??</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042826444709_50.png"/>
+  </channel>
+  <channel id="171946">
+    <display-name>Al Quran Al Kareem ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_93.png"/>
+  </channel>
+  <channel id="171927">
+    <display-name>Tawaf TV ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_105.png"/>
+  </channel>
+  <channel id="171919">
+    <display-name>Sportstars ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_102.png"/>
+  </channel>
+  <channel id="411956">
+    <display-name>Bein Sports 1 ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_309.png"/>
+  </channel>
+  <channel id="411918">
+    <display-name>Bein Sports 2 ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_310.png"/>
+  </channel>
+  <channel id="411914">
+    <display-name>Bein Sports 3 ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_311.png"/>
+  </channel>
+  <channel id="411967">
+    <display-name>Bioskop Indonesia ??</display-name>
+    <icon src="https://i.imgur.com/8gdyddg.png"/>
+  </channel>
+  <channel id="443272">
+    <display-name>Cinemaworld ??</display-name>
+    <icon src="https://i.imgur.com/D2qNVZ7.png"/>
+  </channel>
+  <channel id="411983">
+    <display-name>Studio Universal ??</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_26.png"/>
+  </channel>
+  <channel id="411915">
+    <display-name>NET</display-name>
+    <icon src="https://i.imgur.com/iBcqT8L.png"/>
+  </channel>
+  <channel id="171931">
+    <display-name>iNews (V+)</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_83.png"/>
+  </channel>
+  <channel id="171867">
+    <display-name>CNBC</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042608349944_23.png"/>
+  </channel>
+  <channel id="171891">
+    <display-name>KOMPAS TV (D*)</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_106.png"/>
+  </channel>
+  <channel id="411946">
+    <display-name>MOONBUG</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610054049620376_36.png"/>
+  </channel>
+  <channel id="479618">
+    <display-name>AURA</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/11/15/20251115030013047540_44.jpg"/>
+  </channel>
+  <channel id="480059">
+    <display-name>JR.</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/11/18/20251118030024343346_60.jpg"/>
+  </channel>
+  <channel id="478719">
+    <display-name>ROLL</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg"/>
+  </channel>
+  <channel id="411933">
+    <display-name>ALLPLAY ENT</display-name>
+    <icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/>
+  </channel>
+  <channel id="171855">
+    <display-name>Al Jazeera English</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_331.png"/>
+  </channel>
+  <channel id="902">
+    <display-name>TV9 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080728128542_54.png"/>
+  </channel>
+  <channel id="171861">
+    <display-name>LIFE</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_91.png"/>
   </channel>
 </tv>
