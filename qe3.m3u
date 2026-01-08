@@ -24,7 +24,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 #EXTINF:-1 tvg-id="417396" tvg-logo="https://i.imgur.com/zc2m218.png",JTV (480p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="171991" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png",BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 #EXTINF:-1 tvg-id="171880" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_84.png",SINDO NEWS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-id="171853" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_12.png",GALAXY PREMIUM
@@ -187,3 +187,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;user
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="171861" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png",LIFE
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+#EXTINF:-1 tvg-id="172011" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI 🇮🇩
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="411978" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="2852" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="3858" tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png",Bloomberg TV
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
