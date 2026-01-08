@@ -4,7 +4,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4
 #EXTINF:-1 tvg-id="171875" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 #EXTINF:-1 tvg-id="171924" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 #EXTINF:-1 tvg-id="411917" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="171847" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png",INDOSIAR
@@ -14,7 +14,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="417399" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.png",MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTINF:-1 tvg-id="11691" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png",TVONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 tvg-id="411927" tvg-logo="https://i.postimg.cc/q7G3SbCC/cnbcindonesia.png",CNBC Indonesia (720p)
@@ -24,7 +24,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 #EXTINF:-1 tvg-id="417396" tvg-logo="https://i.imgur.com/zc2m218.png",JTV (480p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="171991" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png",BTV
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 #EXTINF:-1 tvg-id="171880" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_84.png",SINDO NEWS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-id="171853" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_12.png",GALAXY PREMIUM
@@ -44,7 +44,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png",BUDDY STAR
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 #EXTINF:-1 tvg-id="171933" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png",ONE
-http://rtmp.one.by:1300
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 #EXTINF:-1 tvg-id="171856" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png",CCM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:-1 tvg-id="443470" tvg-logo="",Z BIOSKOP
@@ -62,7 +62,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 #EXTINF:-1 tvg-id="411976" tvg-logo="https://i.postimg.cc/Hkwmq94K/Fun-Planet.png",FUN PLANET
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-id="171962" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.png",ZOOMOO
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 #EXTINF:-1 tvg-id="171922" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_207.jpg",CRIME INVESTIGATION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:-1 tvg-id="171981" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_201.png",GLOBAL TREKKER
@@ -70,7 +70,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 #EXTINF:-1 tvg-id="4171" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610054728126786_61.png",LOVE NATURE 4K
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 tvg-id="171870" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png",CGTN DOCUMENTARY
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 #EXTINF:-1 tvg-id="171940" tvg-logo="url",OUTDOOR CHANNEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 #EXTINF:-1 tvg-id="171956" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_167.jpg",LIFETIME
@@ -92,7 +92,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 #EXTINF:-1 tvg-id="411952" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",Jawa Pos TV (720p)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="188223" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 tvg-id="412005" tvg-logo="url",U Channel (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 tvg-id="411950" tvg-logo="https://i.postimg.cc/ZnXBpXXX/cnnindonesia.png",CNN Indonesia
@@ -168,11 +168,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #EXTINF:-1 tvg-id="171931" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png",iNews (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 #EXTINF:-1 tvg-id="171867" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042608349944_23.png",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 #EXTINF:-1 tvg-id="171891" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV (D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1 tvg-id="411946" tvg-logo="https://epg.pw/media/images/epg/2024/06/10/20240610054049620376_36.png",MOONBUG
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 #EXTINF:-1 tvg-id="479618" tvg-logo="https://epg.pw/media/images/epg/2025/11/15/20251115030013047540_44.jpg",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="480059" tvg-logo="https://epg.pw/media/images/epg/2025/11/18/20251118030024343346_60.jpg",JR.
@@ -207,3 +207,55 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 #EXTINF:-1 tvg-id="3200" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042047571480_40.png",Cinemax
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="171863" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg",nick jr.
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#EXTINF:-1 tvg-id="411930" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png",KIDSTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:-1 tvg-id="171865" tvg-logo="https://mncvision.id/userfiles/image/channel/Animax_150x150.png",ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:-1 tvg-id="411974" tvg-logo="https://i.imgur.com/uH1Szme.png",BALITV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:-1 tvg-id="411963" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png",FOOD TRAVEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#EXTINF:-1 tvg-id="171877" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png",KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:-1 tvg-id="171970" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:-1 tvg-id="190468" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png",AlJAZEERA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+#EXTINF:-1 tvg-id="171949" tvg-logo="https://i.postimg.cc/FH1873G8/bloombergadria.png",Bloomberg
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+#EXTINF:-1 tvg-id="411984" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042908770902_82.png",FRANCE24
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+#EXTINF:-1 tvg-id="3329" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.png",BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 tvg-id="369713" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042429781451_96.png",FOX NEWS channel
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:-1 tvg-id="190511" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042816787280_12.png",NHKWORLD JAPAN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1 tvg-id="411962" tvg-logo="https://i.imgur.com/oIVyl1t.jpg",DW
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:-1 tvg-id="171882" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png",CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1 tvg-id="171893" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_333.png",euronews
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+#EXTINF:-1 tvg-id="171883" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png",HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-1 tvg-id="171907" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_200.png",BBC EARTH
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png",Outdoor
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:-1 tvg-id="171958" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png",muslimTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+#EXTINF:-1 tvg-id="171917" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png",ROCK entertainment
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
+#EXTINF:-1 tvg-id="171864" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:-1 tvg-id="171999" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png",CELESTIAL MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#EXTINF:-1 tvg-id="171990" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+#EXTINF:-1 tvg-id="412016" tvg-logo="",Al-Qur'an Kareem
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+#EXTINF:-1 tvg-id="Superrix.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png",superrix
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
