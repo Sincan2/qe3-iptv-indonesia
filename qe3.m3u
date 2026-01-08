@@ -87,13 +87,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 #EXTINF:-1 tvg-id="411952" tvg-logo="/config/data/qe3-logos/b067e8a8c3a2e0a5b6efb5fd2a9d6a94.png",Jawa Pos TV (720p)
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="188223" tvg-logo="/config/data/qe3-logos/dd394dd26c6126a722c2995e2e9c17d9.png",DAAI TV
+#EXTINF:-1 tvg-id="188223" tvg-logo="",DAAI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 tvg-id="412005" tvg-logo="",U Channel (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 tvg-id="411950" tvg-logo="",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="411970" tvg-logo="",Rodja TV (720p)
+#EXTINF:-1 tvg-id="411970" tvg-logo="/config/data/qe3-logos/633e789ed88bb5181c7a77c5e859f816.png",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="3958" tvg-logo="/config/data/qe3-logos/6ae472f39219ec5b8e366d2836ebc3bf.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -103,11 +103,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="370132" tvg-logo="/config/data/qe3-logos/81fb12a1f8a422f0e13548c2964b20e5.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-id="370133" tvg-logo="",Sukan RTM
+#EXTINF:-1 tvg-id="370133" tvg-logo="/config/data/qe3-logos/69cf7f436895397d7720ab611ecd8c5e.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 #EXTINF:-1 tvg-id="479449" tvg-logo="",FITRAH
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-id="478718" tvg-logo="/config/data/qe3-logos/f293f67fd7db38e71ea949ea4bd41a04.png",LEAD
+#EXTINF:-1 tvg-id="478718" tvg-logo="",LEAD
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="479619" tvg-logo="/config/data/qe3-logos/f171a88acc0985a990418f6892b508b2.png",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
@@ -147,13 +147,13 @@ http://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 #EXTINF:-1 tvg-id="171891" tvg-logo="/config/data/qe3-logos/bc6f660106adc51de3fcb98d6680cbf7.png",KOMPAS TV (D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-#EXTINF:-1 tvg-id="411946" tvg-logo="",MOONBUG
+#EXTINF:-1 tvg-id="411946" tvg-logo="/config/data/qe3-logos/88ab13246b15c9c2950017a159f96d29.png",MOONBUG
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 #EXTINF:-1 tvg-id="479618" tvg-logo="/config/data/qe3-logos/ecf14b8072f9f14ac03d935b2658024e.png",AURA
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="480059" tvg-logo="/config/data/qe3-logos/826077ba51f12219dc8975cf4e352957.png",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-id="478719" tvg-logo="",ROLL
+#EXTINF:-1 tvg-id="478719" tvg-logo="/config/data/qe3-logos/5d39e1c3d9ea7b02fb27a6733899420e.png",ROLL
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="171855" tvg-logo="/config/data/qe3-logos/ef1b26a953ea045068dc15c9701acc90.png",Al Jazeera English
 http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
@@ -169,9 +169,9 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #EXTINF:-1 tvg-id="1425" tvg-logo="/config/data/qe3-logos/08e32f69c49d547325da9b90e342e2fc.png",HBO
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1 tvg-id="3994" tvg-logo="",HBO Hits
+#EXTINF:-1 tvg-id="3994" tvg-logo="/config/data/qe3-logos/1f531681b5bec90256002e906e9943fe.png",HBO Hits
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-id="4008" tvg-logo="/config/data/qe3-logos/46d8df2b9be0e18c65bcd1dbcace3a0b.png",HBO Family
+#EXTINF:-1 tvg-id="4008" tvg-logo="",HBO Family
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 #EXTINF:-1 tvg-id="171863" tvg-logo="/config/data/qe3-logos/cde272c162e739bff9e7e96c7468f9e8.png",nick jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
