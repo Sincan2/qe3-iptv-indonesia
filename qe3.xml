@@ -412,4 +412,107 @@
     <display-name>Cinemax</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042047571480_40.png"/>
   </channel>
+  <channel id="171863">
+    <display-name>nick jr.</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_37.jpg"/>
+  </channel>
+  <channel id="411930">
+    <display-name>KIDSTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_46.png"/>
+  </channel>
+  <channel id="171865">
+    <display-name>ANIMAX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/Animax_150x150.png"/>
+  </channel>
+  <channel id="411974">
+    <display-name>BALITV</display-name>
+    <icon src="https://i.imgur.com/uH1Szme.png"/>
+  </channel>
+  <channel id="411963">
+    <display-name>FOOD TRAVEL</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_95.png"/>
+  </channel>
+  <channel id="171877">
+    <display-name>KIX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_161.png"/>
+  </channel>
+  <channel id="171970">
+    <display-name>ABC Australia</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_350.png"/>
+  </channel>
+  <channel id="190468">
+    <display-name>AlJAZEERA</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png"/>
+  </channel>
+  <channel id="171949">
+    <display-name>Bloomberg</display-name>
+    <icon src="https://i.postimg.cc/FH1873G8/bloombergadria.png"/>
+  </channel>
+  <channel id="411984">
+    <display-name>FRANCE24</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042908770902_82.png"/>
+  </channel>
+  <channel id="3329">
+    <display-name>BBC NEWS</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_332.png"/>
+  </channel>
+  <channel id="369713">
+    <display-name>FOX NEWS channel</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042429781451_96.png"/>
+  </channel>
+  <channel id="190511">
+    <display-name>NHKWORLD JAPAN</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042816787280_12.png"/>
+  </channel>
+  <channel id="411962">
+    <display-name>DW</display-name>
+    <icon src="https://i.imgur.com/oIVyl1t.jpg"/>
+  </channel>
+  <channel id="171882">
+    <display-name>CGTN</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_353.png"/>
+  </channel>
+  <channel id="171893">
+    <display-name>euronews</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_333.png"/>
+  </channel>
+  <channel id="171883">
+    <display-name>HISTORY</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_206.png"/>
+  </channel>
+  <channel id="171907">
+    <display-name>BBC EARTH</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_200.png"/>
+  </channel>
+  <channel id="OutdoorChannel.id">
+    <display-name>Outdoor</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_202.png"/>
+  </channel>
+  <channel id="171958">
+    <display-name>muslimTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_92.png"/>
+  </channel>
+  <channel id="171917">
+    <display-name>ROCK entertainment</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_240.png"/>
+  </channel>
+  <channel id="171864">
+    <display-name>thrill</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg"/>
+  </channel>
+  <channel id="171999">
+    <display-name>CELESTIAL MOVIES</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/celestial.png"/>
+  </channel>
+  <channel id="171990">
+    <display-name>HITS</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_160.jpg"/>
+  </channel>
+  <channel id="412016">
+    <display-name>Al-Qur'an Kareem</display-name>
+  </channel>
+  <channel id="Superrix.id">
+    <display-name>superrix</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_10.png"/>
+  </channel>
 </tv>
