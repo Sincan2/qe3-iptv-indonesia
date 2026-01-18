@@ -179,10 +179,6 @@
     <display-name>Metro TV</display-name>
     <icon src="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png"/>
   </channel>
-  <channel id="171946">
-    <display-name>Al Quran Al Kareem ??</display-name>
-    <icon src="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png"/>
-  </channel>
   <channel id="171927">
     <display-name>Tawaf TV ??</display-name>
     <icon src="/config/data/qe3-logos/6105269c819a553aae92a20dc08f1251.png"/>
