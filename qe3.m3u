@@ -95,8 +95,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="171942" tvg-logo="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-id="171946" tvg-logo="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png",Al Quran Al Kareem ??
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
 #EXTINF:-1 tvg-id="171927" tvg-logo="/config/data/qe3-logos/6105269c819a553aae92a20dc08f1251.png",Tawaf TV ??
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 #EXTINF:-1 tvg-id="411956" tvg-logo="/config/data/qe3-logos/2e708e02180c0eccd069a3d32910e0d9.png",Bein Sports 1 ??
