@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="171924" tvg-logo="/config/data/qe3-logos/a54aad003a2f4d850b39ebc13309365d.png",GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:-1 tvg-id="411917" tvg-logo="/config/data/qe3-logos/f8994d26bde49d450057f19dbc8eb956.png",SCTV
+#EXTINF:-1 tvg-id="171854" tvg-logo="/config/data/qe3-logos/f8994d26bde49d450057f19dbc8eb956.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="171847" tvg-logo="/config/data/qe3-logos/7c7b0ed1f7a6d7dfadc2c048bdc9c7f7.png",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -45,28 +45,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:-1 tvg-id="443470" tvg-logo="",Z BIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:-1 tvg-id="171930" tvg-logo="/config/data/qe3-logos/6a952a21b7693e7b8aa996b172efc5d5.png",NICKELODEON
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 #EXTINF:-1 tvg-id="171849" tvg-logo="/config/data/qe3-logos/d8233ee3ebc2b3943008a6429b93eaa8.png",CBEEBIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 #EXTINF:-1 tvg-id="171899" tvg-logo="/config/data/qe3-logos/c3342301d57dd4980d12431b72cbd446.png",DREAMWORKS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1 tvg-id="411976" tvg-logo="",FUN PLANET
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-id="171962" tvg-logo="/config/data/qe3-logos/da55da4b17a20577a48930f33e6f3c89.png",ZOOMOO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 #EXTINF:-1 tvg-id="171922" tvg-logo="/config/data/qe3-logos/a6d2c83a962cce9dd9762b82be31378d.png",CRIME INVESTIGATION
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:-1 tvg-id="171981" tvg-logo="/config/data/qe3-logos/afed9164085e946d3dabf3fe43857ba0.png",GLOBAL TREKKER
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:-1 tvg-id="171884" tvg-logo="/config/data/qe3-logos/939cca9e4007ee7b1efad415e0a01d5b.png",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="171921" tvg-logo="/config/data/qe3-logos/939cca9e4007ee7b1efad415e0a01d5b.png",LOVE NATURE 4K
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 tvg-id="171870" tvg-logo="/config/data/qe3-logos/6dc00112b91d0b4575882b8676922d4a.png",CGTN DOCUMENTARY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 #EXTINF:-1 tvg-id="171940" tvg-logo="/config/data/qe3-logos/5b0a57a90d97d8e08b5ca33c2fd67c19.png",OUTDOOR CHANNEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:-1 tvg-id="171956" tvg-logo="/config/data/qe3-logos/3d284823e4851bf38f70ca8b2fab0d05.png",LIFETIME
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
 #EXTINF:-1 tvg-id="411961" tvg-logo="/config/data/qe3-logos/3a3821810e19323b5809d48d32a8fd5f.png",HANACARAKA TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 #EXTINF:-1 tvg-id="171916" tvg-logo="/config/data/qe3-logos/e0914e7b5c3fd17c291e6fd377e14c26.png",CELEBRITIES TV
@@ -83,7 +77,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="188223" tvg-logo="",DAAI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",U Channel (720p)
+#EXTINF:-1 tvg-id="492864" tvg-logo="/config/data/qe3-logos/bd2220cd0f5207f9fd52ca325d3c1511.png",U Channel (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 tvg-id="411950" tvg-logo="",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
@@ -93,16 +87,12 @@ https://rodjatv.com/rodjatv/live.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-id="3179" tvg-logo="/config/data/qe3-logos/9069cb374a576c7db69fffe87d7f3c88.png",CNN
+#EXTINF:-1 tvg-id="3179" tvg-logo="/config/data/qe3-logos/3baee4b746ca9952fcfbaa5961995a12.png",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="411959" tvg-logo="",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="411945" tvg-logo="",TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",MUITV
-https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-id="412011" tvg-logo="",Rajawali TV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="171942" tvg-logo="/config/data/qe3-logos/92d97db360f90f7dd1c7ca992fe4ef94.png",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
 #EXTINF:-1 tvg-id="171946" tvg-logo="/config/data/qe3-logos/1b5a33cd68e0e58965f8b51b7db6e410.png",Al Quran Al Kareem ??
