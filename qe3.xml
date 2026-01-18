@@ -4,7 +4,7 @@
     <display-name>GTV</display-name>
     <icon src="/config/data/qe3-logos/a54aad003a2f4d850b39ebc13309365d.png"/>
   </channel>
-  <channel id="411917">
+  <channel id="171854">
     <display-name>SCTV</display-name>
     <icon src="/config/data/qe3-logos/f8994d26bde49d450057f19dbc8eb956.png"/>
   </channel>
@@ -87,10 +87,6 @@
   <channel id="443470">
     <display-name>Z BIOSKOP</display-name>
   </channel>
-  <channel id="171930">
-    <display-name>NICKELODEON</display-name>
-    <icon src="/config/data/qe3-logos/6a952a21b7693e7b8aa996b172efc5d5.png"/>
-  </channel>
   <channel id="171849">
     <display-name>CBEEBIES</display-name>
     <icon src="/config/data/qe3-logos/d8233ee3ebc2b3943008a6429b93eaa8.png"/>
@@ -98,9 +94,6 @@
   <channel id="171899">
     <display-name>DREAMWORKS</display-name>
     <icon src="/config/data/qe3-logos/c3342301d57dd4980d12431b72cbd446.png"/>
-  </channel>
-  <channel id="411976">
-    <display-name>FUN PLANET</display-name>
   </channel>
   <channel id="171962">
     <display-name>ZOOMOO</display-name>
@@ -114,7 +107,7 @@
     <display-name>GLOBAL TREKKER</display-name>
     <icon src="/config/data/qe3-logos/afed9164085e946d3dabf3fe43857ba0.png"/>
   </channel>
-  <channel id="171884">
+  <channel id="171921">
     <display-name>LOVE NATURE 4K</display-name>
     <icon src="/config/data/qe3-logos/939cca9e4007ee7b1efad415e0a01d5b.png"/>
   </channel>
@@ -125,10 +118,6 @@
   <channel id="171940">
     <display-name>OUTDOOR CHANNEL</display-name>
     <icon src="/config/data/qe3-logos/5b0a57a90d97d8e08b5ca33c2fd67c19.png"/>
-  </channel>
-  <channel id="171956">
-    <display-name>LIFETIME</display-name>
-    <icon src="/config/data/qe3-logos/3d284823e4851bf38f70ca8b2fab0d05.png"/>
   </channel>
   <channel id="411961">
     <display-name>HANACARAKA TV</display-name>
@@ -160,8 +149,9 @@
   <channel id="188223">
     <display-name>DAAI TV</display-name>
   </channel>
-  <channel id="">
+  <channel id="492864">
     <display-name>U Channel (720p)</display-name>
+    <icon src="/config/data/qe3-logos/bd2220cd0f5207f9fd52ca325d3c1511.png"/>
   </channel>
   <channel id="411950">
     <display-name>CNN Indonesia</display-name>
@@ -177,19 +167,13 @@
   </channel>
   <channel id="3179">
     <display-name>CNN</display-name>
-    <icon src="/config/data/qe3-logos/9069cb374a576c7db69fffe87d7f3c88.png"/>
+    <icon src="/config/data/qe3-logos/3baee4b746ca9952fcfbaa5961995a12.png"/>
   </channel>
   <channel id="411959">
     <display-name>MQTV</display-name>
   </channel>
   <channel id="411945">
     <display-name>TV9 NU</display-name>
-  </channel>
-  <channel id="">
-    <display-name>MUITV</display-name>
-  </channel>
-  <channel id="412011">
-    <display-name>Rajawali TV</display-name>
   </channel>
   <channel id="171942">
     <display-name>Metro TV</display-name>
